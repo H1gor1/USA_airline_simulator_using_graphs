@@ -1,0 +1,140 @@
+{
+    "flights": [
+      {
+        "source": "ABQ",
+        "destination": "DEN"
+      },
+      {
+        "source": "ABQ",
+        "destination": "DFW"
+      },
+      {
+        "source": "ABQ",
+        "destination": "HOU"
+      },
+      {
+        "source": "ABQ",
+        "destination": "LAX"
+      },
+      {
+        "source": "ABQ",
+        "destination": "ORD"
+      },
+      {
+        "source": "ABQ",
+        "destination": "PHX"
+      },
+      {
+        "source": "ABQ",
+        "destination": "SFO"
+      },
+      {
+        "source": "ATL",
+        "destination": "BNA"
+      },
+      {
+        "source": "ATL",
+        "destination": "MSY"
+      },
+      {
+        "source": "ATL",
+        "destination": "RDU"
+      },
+      {
+        "source": "BNA",
+        "destination": "ORD"
+      },
+      {
+        "source": "BNA",
+        "destination": "STL"
+      },
+      {
+        "source": "BOS",
+        "destination": "JFK"
+      },
+      {
+        "source": "DCA",
+        "destination": "JFK"
+      },
+      {
+        "source": "DCA",
+        "destination": "RDU"
+      },
+      {
+        "source": "DEN",
+        "destination": "DFW"
+      },
+      {
+        "source": "DEN",
+        "destination": "LAX"
+      },
+      {
+        "source": "DEN",
+        "destination": "ORD"
+      },
+      {
+        "source": "DFW",
+        "destination": "HOU"
+      },
+      {
+        "source": "DFW",
+        "destination": "STL"
+      },
+      {
+        "source": "DTW",
+        "destination": "ORD"
+      },
+      {
+        "source": "HOU",
+        "destination": "MIA"
+      },
+      {
+        "source": "JFK",
+        "destination": "PHL"
+      },
+      {
+        "source": "LAX",
+        "destination": "PHX"
+      },
+      {
+        "source": "LAX",
+        "destination": "SFO"
+      },
+      {
+        "source": "MIA",
+        "destination": "TPA"
+      },
+      {
+        "source": "MSP",
+        "destination": "ORD"
+      },
+      {
+        "source": "MSY",
+        "destination": "DFW"
+      },
+      {
+        "source": "MSY",
+        "destination": "HOU"
+      },
+      {
+        "source": "MSY",
+        "destination": "TPA"
+      },
+      {
+        "source": "ORD",
+        "destination": "STL"
+      },
+      {
+        "source": "PVD",
+        "destination": "MIA"
+      },
+      {
+        "source": "PHX",
+        "destination": "SFO"
+      },
+      {
+        "source": "SEA",
+        "destination": "SFO"
+      }
+    ]
+}  

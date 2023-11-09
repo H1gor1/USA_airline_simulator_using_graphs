@@ -1,0 +1,6509 @@
+[
+    {
+        "Airline": "AA",
+        "Flight": "748",
+        "Origin Airport": "ABQ",
+        "Departure Time": "257P",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1047P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "410",
+        "Origin Airport": "ABQ",
+        "Departure Time": "628A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "132P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "785",
+        "Origin Airport": "ABQ",
+        "Departure Time": "645A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "757A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "YV",
+        "Flight": "11",
+        "Origin Airport": "ABQ",
+        "Departure Time": "715A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "920A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "202",
+        "Origin Airport": "ABQ",
+        "Departure Time": "450A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "721A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "YV",
+        "Flight": "84",
+        "Origin Airport": "ABQ",
+        "Departure Time": "200P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "637P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "515",
+        "Origin Airport": "ABQ",
+        "Departure Time": "610A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "905A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "29",
+        "Origin Airport": "ABQ",
+        "Departure Time": "1005A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "225P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "31",
+        "Origin Airport": "ABQ",
+        "Departure Time": "1050A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "255P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "530",
+        "Origin Airport": "ABQ",
+        "Departure Time": "700A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "750A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "994",
+        "Origin Airport": "ABQ",
+        "Departure Time": "100P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "250P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "880",
+        "Origin Airport": "ABQ",
+        "Departure Time": "915A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "439P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "982",
+        "Origin Airport": "ABQ",
+        "Departure Time": "829A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "124P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1042",
+        "Origin Airport": "ABQ",
+        "Departure Time": "630A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "1105A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1186",
+        "Origin Airport": "ABQ",
+        "Departure Time": "845A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "1227P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "88",
+        "Origin Airport": "ABQ",
+        "Departure Time": "328P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "856P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "483",
+        "Origin Airport": "ABQ",
+        "Departure Time": "830A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "940A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "845",
+        "Origin Airport": "ABQ",
+        "Departure Time": "255P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "718P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "592",
+        "Origin Airport": "ABQ",
+        "Departure Time": "820A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "950A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "515",
+        "Origin Airport": "ABQ",
+        "Departure Time": "610A",
+        "Destination Airport": "STL",
+        "Arrival Time": "1120A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "545",
+        "Origin Airport": "ATL",
+        "Departure Time": "1144A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "405P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1271",
+        "Origin Airport": "ATL",
+        "Departure Time": "440P",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "826P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1166",
+        "Origin Airport": "ATL",
+        "Departure Time": "632A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "625A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "850",
+        "Origin Airport": "ATL",
+        "Departure Time": "624A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "845A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "202",
+        "Origin Airport": "ATL",
+        "Departure Time": "636A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1004A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "314",
+        "Origin Airport": "ATL",
+        "Departure Time": "625A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "755A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "717",
+        "Origin Airport": "ATL",
+        "Departure Time": "640A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "804A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1055",
+        "Origin Airport": "ATL",
+        "Departure Time": "652P",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1130P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "837",
+        "Origin Airport": "ATL",
+        "Departure Time": "725A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "835A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "409",
+        "Origin Airport": "ATL",
+        "Departure Time": "820A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "1108A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "492",
+        "Origin Airport": "ATL",
+        "Departure Time": "640A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "829A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "823",
+        "Origin Airport": "ATL",
+        "Departure Time": "820A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1057A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "30",
+        "Origin Airport": "ATL",
+        "Departure Time": "1230P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "238P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "44",
+        "Origin Airport": "ATL",
+        "Departure Time": "815A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1125A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "339",
+        "Origin Airport": "ATL",
+        "Departure Time": "632A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "810A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "673",
+        "Origin Airport": "ATL",
+        "Departure Time": "710A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "843A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "793",
+        "Origin Airport": "ATL",
+        "Departure Time": "819A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "850A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "596",
+        "Origin Airport": "ATL",
+        "Departure Time": "626A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "715A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "944",
+        "Origin Airport": "ATL",
+        "Departure Time": "359P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "815P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "202",
+        "Origin Airport": "ATL",
+        "Departure Time": "636A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "825A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "543",
+        "Origin Airport": "ATL",
+        "Departure Time": "730A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1100A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "444",
+        "Origin Airport": "ATL",
+        "Departure Time": "819A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "110P",
+        "Stops during flight": "3"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1238",
+        "Origin Airport": "ATL",
+        "Departure Time": "715A",
+        "Destination Airport": "PVD",
+        "Arrival Time": "1057A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "806",
+        "Origin Airport": "ATL",
+        "Departure Time": "630A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "740A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "835",
+        "Origin Airport": "ATL",
+        "Departure Time": "926A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1130A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "673",
+        "Origin Airport": "ATL",
+        "Departure Time": "757P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1207A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "270",
+        "Origin Airport": "ATL",
+        "Departure Time": "841A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1045A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "143",
+        "Origin Airport": "ATL",
+        "Departure Time": "1035P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "159A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "73",
+        "Origin Airport": "ATL",
+        "Departure Time": "742A",
+        "Destination Airport": "STL",
+        "Arrival Time": "827A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "273",
+        "Origin Airport": "ATL",
+        "Departure Time": "659A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "815A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "885",
+        "Origin Airport": "BNA",
+        "Departure Time": "535A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "732A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "132",
+        "Origin Airport": "BNA",
+        "Departure Time": "830A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1147A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "350",
+        "Origin Airport": "BNA",
+        "Departure Time": "910A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1146A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1615",
+        "Origin Airport": "BNA",
+        "Departure Time": "1000A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1145A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1621",
+        "Origin Airport": "BNA",
+        "Departure Time": "844P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "1037P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "436",
+        "Origin Airport": "BNA",
+        "Departure Time": "730A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "1115A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "443",
+        "Origin Airport": "BNA",
+        "Departure Time": "725A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1045A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "792",
+        "Origin Airport": "BNA",
+        "Departure Time": "1221P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "450P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "440",
+        "Origin Airport": "BNA",
+        "Departure Time": "840A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1200N",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1651",
+        "Origin Airport": "BNA",
+        "Departure Time": "840A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1148A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1051",
+        "Origin Airport": "BNA",
+        "Departure Time": "835A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "1049A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "443",
+        "Origin Airport": "BNA",
+        "Departure Time": "725A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "925A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "811",
+        "Origin Airport": "BNA",
+        "Departure Time": "643A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "821A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "138",
+        "Origin Airport": "BNA",
+        "Departure Time": "630A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "915A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "440",
+        "Origin Airport": "BNA",
+        "Departure Time": "840A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1120A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1444",
+        "Origin Airport": "BNA",
+        "Departure Time": "1015A",
+        "Destination Airport": "PVD",
+        "Arrival Time": "309P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1128",
+        "Origin Airport": "BNA",
+        "Departure Time": "830A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "1053A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1709",
+        "Origin Airport": "BNA",
+        "Departure Time": "405P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "900P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1287",
+        "Origin Airport": "BNA",
+        "Departure Time": "310P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "559P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "628",
+        "Origin Airport": "BNA",
+        "Departure Time": "700A",
+        "Destination Airport": "STL",
+        "Arrival Time": "810A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1643",
+        "Origin Airport": "BNA",
+        "Departure Time": "840A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1122A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "599",
+        "Origin Airport": "BOS",
+        "Departure Time": "310P",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "751P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1863",
+        "Origin Airport": "BOS",
+        "Departure Time": "100P",
+        "Destination Airport": "ATL",
+        "Arrival Time": "500P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1125",
+        "Origin Airport": "BOS",
+        "Departure Time": "705A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "905A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1691",
+        "Origin Airport": "BOS",
+        "Departure Time": "1240P",
+        "Destination Airport": "BNA",
+        "Arrival Time": "236P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1141",
+        "Origin Airport": "BOS",
+        "Departure Time": "140P",
+        "Destination Airport": "BNA",
+        "Arrival Time": "446P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1807",
+        "Origin Airport": "BOS",
+        "Departure Time": "700A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "834A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "391",
+        "Origin Airport": "BOS",
+        "Departure Time": "920A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1230P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "379",
+        "Origin Airport": "BOS",
+        "Departure Time": "615A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1037A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "661",
+        "Origin Airport": "BOS",
+        "Departure Time": "810A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1054A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "699",
+        "Origin Airport": "BOS",
+        "Departure Time": "225P",
+        "Destination Airport": "DEN",
+        "Arrival Time": "755P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "333",
+        "Origin Airport": "BOS",
+        "Departure Time": "644A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "959A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "575",
+        "Origin Airport": "BOS",
+        "Departure Time": "625A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "835A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "15",
+        "Origin Airport": "BOS",
+        "Departure Time": "617A",
+        "Destination Airport": "JFK",
+        "Arrival Time": "725A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "223",
+        "Origin Airport": "BOS",
+        "Departure Time": "600A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "130P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "459",
+        "Origin Airport": "BOS",
+        "Departure Time": "640A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1135A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "133",
+        "Origin Airport": "BOS",
+        "Departure Time": "535P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "904P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1245",
+        "Origin Airport": "BOS",
+        "Departure Time": "700A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1016A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1588",
+        "Origin Airport": "BOS",
+        "Departure Time": "500P",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1000P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "193",
+        "Origin Airport": "BOS",
+        "Departure Time": "635A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "850A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "985",
+        "Origin Airport": "BOS",
+        "Departure Time": "430P",
+        "Destination Airport": "MSP",
+        "Arrival Time": "825P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "233",
+        "Origin Airport": "BOS",
+        "Departure Time": "700A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "1122A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "393",
+        "Origin Airport": "BOS",
+        "Departure Time": "330P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "714P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "243",
+        "Origin Airport": "BOS",
+        "Departure Time": "340P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "515P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1723",
+        "Origin Airport": "BOS",
+        "Departure Time": "620A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "741A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "82",
+        "Origin Airport": "BOS",
+        "Departure Time": "735A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1129A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1691",
+        "Origin Airport": "BOS",
+        "Departure Time": "1240P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "602P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "563",
+        "Origin Airport": "BOS",
+        "Departure Time": "704A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "916A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "575",
+        "Origin Airport": "BOS",
+        "Departure Time": "625A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1126A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1283",
+        "Origin Airport": "BOS",
+        "Departure Time": "815A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "335P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "223",
+        "Origin Airport": "BOS",
+        "Departure Time": "600A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1139A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "890",
+        "Origin Airport": "BOS",
+        "Departure Time": "900A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "513P",
+        "Stops during flight": "3"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "223",
+        "Origin Airport": "BOS",
+        "Departure Time": "600A",
+        "Destination Airport": "STL",
+        "Arrival Time": "822A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "175",
+        "Origin Airport": "BOS",
+        "Departure Time": "800A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1208P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "486",
+        "Origin Airport": "BOS",
+        "Departure Time": "525P",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1128P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "527",
+        "Origin Airport": "DCA",
+        "Departure Time": "850A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "1230P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "989",
+        "Origin Airport": "DCA",
+        "Departure Time": "730A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "915A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "839",
+        "Origin Airport": "DCA",
+        "Departure Time": "808A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "910A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "528",
+        "Origin Airport": "DCA",
+        "Departure Time": "650A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "809A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1862",
+        "Origin Airport": "DCA",
+        "Departure Time": "755P",
+        "Destination Airport": "BOS",
+        "Arrival Time": "915P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1838",
+        "Origin Airport": "DCA",
+        "Departure Time": "800P",
+        "Destination Airport": "BOS",
+        "Arrival Time": "924P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "442",
+        "Origin Airport": "DCA",
+        "Departure Time": "800P",
+        "Destination Airport": "BOS",
+        "Arrival Time": "927P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "563",
+        "Origin Airport": "DCA",
+        "Departure Time": "910A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1245P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "527",
+        "Origin Airport": "DCA",
+        "Departure Time": "850A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "1052A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1665",
+        "Origin Airport": "DCA",
+        "Departure Time": "1050A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "300P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "285",
+        "Origin Airport": "DCA",
+        "Departure Time": "650A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "826A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1679",
+        "Origin Airport": "DCA",
+        "Departure Time": "159P",
+        "Destination Airport": "HOU",
+        "Arrival Time": "631P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "744",
+        "Origin Airport": "DCA",
+        "Departure Time": "221P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "331P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "131",
+        "Origin Airport": "DCA",
+        "Departure Time": "645A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "144P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "US",
+        "Flight": "485",
+        "Origin Airport": "DCA",
+        "Departure Time": "700A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1101A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "809",
+        "Origin Airport": "DCA",
+        "Departure Time": "715A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1201P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "PA",
+        "Flight": "2441",
+        "Origin Airport": "DCA",
+        "Departure Time": "630P",
+        "Destination Airport": "MIA",
+        "Arrival Time": "905P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "111",
+        "Origin Airport": "DCA",
+        "Departure Time": "700A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "845A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "139",
+        "Origin Airport": "DCA",
+        "Departure Time": "1240P",
+        "Destination Airport": "MSY",
+        "Arrival Time": "345P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1703",
+        "Origin Airport": "DCA",
+        "Departure Time": "900P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "1010P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "93",
+        "Origin Airport": "DCA",
+        "Departure Time": "700A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1120A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1691",
+        "Origin Airport": "DCA",
+        "Departure Time": "835A",
+        "Destination Airport": "PVD",
+        "Arrival Time": "950A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1289",
+        "Origin Airport": "DCA",
+        "Departure Time": "650A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "758A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "523",
+        "Origin Airport": "DCA",
+        "Departure Time": "1045A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "230P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "273",
+        "Origin Airport": "DCA",
+        "Departure Time": "643A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1140A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1157",
+        "Origin Airport": "DCA",
+        "Departure Time": "435P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1113P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "US",
+        "Flight": "127",
+        "Origin Airport": "DCA",
+        "Departure Time": "1150A",
+        "Destination Airport": "STL",
+        "Arrival Time": "226P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "99",
+        "Origin Airport": "DCA",
+        "Departure Time": "1210P",
+        "Destination Airport": "STL",
+        "Arrival Time": "137P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "291",
+        "Origin Airport": "DCA",
+        "Departure Time": "830A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1045A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "691",
+        "Origin Airport": "DEN",
+        "Departure Time": "835A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "949A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "YV",
+        "Flight": "236",
+        "Origin Airport": "DEN",
+        "Departure Time": "840A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "1030A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "402",
+        "Origin Airport": "DEN",
+        "Departure Time": "745A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1226P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1260",
+        "Origin Airport": "DEN",
+        "Departure Time": "935A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "109P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1278",
+        "Origin Airport": "DEN",
+        "Departure Time": "615A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "210P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1182",
+        "Origin Airport": "DEN",
+        "Departure Time": "729P",
+        "Destination Airport": "BOS",
+        "Arrival Time": "123A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "402",
+        "Origin Airport": "DEN",
+        "Departure Time": "745A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "259P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "820",
+        "Origin Airport": "DEN",
+        "Departure Time": "435A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "728A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1224",
+        "Origin Airport": "DEN",
+        "Departure Time": "810A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "1251P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "YX",
+        "Flight": "522",
+        "Origin Airport": "DEN",
+        "Departure Time": "940A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "340P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "514",
+        "Origin Airport": "DEN",
+        "Departure Time": "1044A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "207P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "870",
+        "Origin Airport": "DEN",
+        "Departure Time": "948A",
+        "Destination Airport": "JFK",
+        "Arrival Time": "325P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1629",
+        "Origin Airport": "DEN",
+        "Departure Time": "600P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "724P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "38",
+        "Origin Airport": "DEN",
+        "Departure Time": "603P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "830P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "230",
+        "Origin Airport": "DEN",
+        "Departure Time": "921A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "604P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "986",
+        "Origin Airport": "DEN",
+        "Departure Time": "700A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "945A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "956",
+        "Origin Airport": "DEN",
+        "Departure Time": "1033A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "212P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1012",
+        "Origin Airport": "DEN",
+        "Departure Time": "619A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "945A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "566",
+        "Origin Airport": "DEN",
+        "Departure Time": "505P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "947P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1602",
+        "Origin Airport": "DEN",
+        "Departure Time": "1040A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "416P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "844",
+        "Origin Airport": "DEN",
+        "Departure Time": "645A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "842A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1362",
+        "Origin Airport": "DEN",
+        "Departure Time": "330P",
+        "Destination Airport": "PVD",
+        "Arrival Time": "1058P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1136",
+        "Origin Airport": "DEN",
+        "Departure Time": "245P",
+        "Destination Airport": "RDU",
+        "Arrival Time": "1010P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "840",
+        "Origin Airport": "DEN",
+        "Departure Time": "655P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1158P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "255",
+        "Origin Airport": "DEN",
+        "Departure Time": "828P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1014P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "681",
+        "Origin Airport": "DEN",
+        "Departure Time": "640A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "820A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "603",
+        "Origin Airport": "DEN",
+        "Departure Time": "105P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "440P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "402",
+        "Origin Airport": "DEN",
+        "Departure Time": "700A",
+        "Destination Airport": "STL",
+        "Arrival Time": "1000A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1568",
+        "Origin Airport": "DEN",
+        "Departure Time": "1035A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "519P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "317",
+        "Origin Airport": "DEN",
+        "Departure Time": "1100A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "620P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "581",
+        "Origin Airport": "DFW",
+        "Departure Time": "812A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "905A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "YV",
+        "Flight": "81",
+        "Origin Airport": "DFW",
+        "Departure Time": "1030A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "120P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "333",
+        "Origin Airport": "DFW",
+        "Departure Time": "1028P",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "1110P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "16",
+        "Origin Airport": "DFW",
+        "Departure Time": "615A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "918A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "500",
+        "Origin Airport": "DFW",
+        "Departure Time": "615A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1055A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "353",
+        "Origin Airport": "DFW",
+        "Departure Time": "809A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1237P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1144",
+        "Origin Airport": "DFW",
+        "Departure Time": "645A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "826A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "410",
+        "Origin Airport": "DFW",
+        "Departure Time": "814A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "1245P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "996",
+        "Origin Airport": "DFW",
+        "Departure Time": "610A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1146A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "728",
+        "Origin Airport": "DFW",
+        "Departure Time": "635A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1058A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "568",
+        "Origin Airport": "DFW",
+        "Departure Time": "656A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1033A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "349",
+        "Origin Airport": "DFW",
+        "Departure Time": "925A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "255P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA1483",
+        "Flight": "DFW",
+        "Origin Airport": "700A",
+        "Departure Time": "DEN",
+        "Destination Airport": "802A",
+        "Arrival Time": "B",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "262",
+        "Origin Airport": "DFW",
+        "Departure Time": "116P",
+        "Destination Airport": "DTW",
+        "Arrival Time": "455P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "446",
+        "Origin Airport": "DFW",
+        "Departure Time": "206P",
+        "Destination Airport": "DTW",
+        "Arrival Time": "708P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1177",
+        "Origin Airport": "DFW",
+        "Departure Time": "617A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "715A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "130",
+        "Origin Airport": "DFW",
+        "Departure Time": "1100A",
+        "Destination Airport": "JFK",
+        "Arrival Time": "450P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1165",
+        "Origin Airport": "DFW",
+        "Departure Time": "700A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "811A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "859",
+        "Origin Airport": "DFW",
+        "Departure Time": "812A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1019A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1700",
+        "Origin Airport": "DFW",
+        "Departure Time": "640A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1010A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "516",
+        "Origin Airport": "DFW",
+        "Departure Time": "630A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "836A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "824",
+        "Origin Airport": "DFW",
+        "Departure Time": "617A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "735A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "580",
+        "Origin Airport": "DFW",
+        "Departure Time": "700A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "915A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "335",
+        "Origin Airport": "DFW",
+        "Departure Time": "106P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "750P",
+        "Stops during flight": "3"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "124",
+        "Origin Airport": "DFW",
+        "Departure Time": "657A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "1049A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "360",
+        "Origin Airport": "DFW",
+        "Departure Time": "925A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "303P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "622",
+        "Origin Airport": "DFW",
+        "Departure Time": "705A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "836A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1098",
+        "Origin Airport": "DFW",
+        "Departure Time": "145P",
+        "Destination Airport": "PVD",
+        "Arrival Time": "722P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1254",
+        "Origin Airport": "DFW",
+        "Departure Time": "814A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "1149A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1717",
+        "Origin Airport": "DFW",
+        "Departure Time": "808A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1120A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "583",
+        "Origin Airport": "DFW",
+        "Departure Time": "953P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1208A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "203",
+        "Origin Airport": "DFW",
+        "Departure Time": "810A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "947A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "563",
+        "Origin Airport": "DFW",
+        "Departure Time": "641A",
+        "Destination Airport": "STL",
+        "Arrival Time": "827A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AD",
+        "Flight": "1274",
+        "Origin Airport": "DFW",
+        "Departure Time": "225P",
+        "Destination Airport": "STL",
+        "Arrival Time": "610P",
+        "Stops during flight": "3"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1378",
+        "Origin Airport": "DFW",
+        "Departure Time": "658A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1009A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "790",
+        "Origin Airport": "DFW",
+        "Departure Time": "940A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "305P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "305",
+        "Origin Airport": "DTW",
+        "Departure Time": "105P",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "446P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "201",
+        "Origin Airport": "DTW",
+        "Departure Time": "550A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "737A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1565",
+        "Origin Airport": "DTW",
+        "Departure Time": "720A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "800A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "852",
+        "Origin Airport": "DTW",
+        "Departure Time": "700A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1017A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "338",
+        "Origin Airport": "DTW",
+        "Departure Time": "720A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "846A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "307",
+        "Origin Airport": "DTW",
+        "Departure Time": "657A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "810A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1543",
+        "Origin Airport": "DTW",
+        "Departure Time": "730P",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1034P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1433",
+        "Origin Airport": "DTW",
+        "Departure Time": "655A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "836A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "697",
+        "Origin Airport": "DTW",
+        "Departure Time": "940P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "1142P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "531",
+        "Origin Airport": "DTW",
+        "Departure Time": "700A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1040A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "766",
+        "Origin Airport": "DTW",
+        "Departure Time": "300P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "449P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "333",
+        "Origin Airport": "DTW",
+        "Departure Time": "925A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1130A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "PA",
+        "Flight": "437",
+        "Origin Airport": "DTW",
+        "Departure Time": "715A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1016A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "123",
+        "Origin Airport": "DTW",
+        "Departure Time": "700A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "920A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "757",
+        "Origin Airport": "DTW",
+        "Departure Time": "1000P",
+        "Destination Airport": "MSP",
+        "Arrival Time": "1052P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "297",
+        "Origin Airport": "DTW",
+        "Departure Time": "650P",
+        "Destination Airport": "MSY",
+        "Arrival Time": "947P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "123",
+        "Origin Airport": "DTW",
+        "Departure Time": "700A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "714A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "100",
+        "Origin Airport": "DTW",
+        "Departure Time": "700A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "828A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "101",
+        "Origin Airport": "DTW",
+        "Departure Time": "730A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1156A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1440",
+        "Origin Airport": "DTW",
+        "Departure Time": "715A",
+        "Destination Airport": "PVD",
+        "Arrival Time": "854A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "100",
+        "Origin Airport": "DTW",
+        "Departure Time": "700A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "1028A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "575",
+        "Origin Airport": "DTW",
+        "Departure Time": "925A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1126A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "349",
+        "Origin Airport": "DTW",
+        "Departure Time": "945P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1151P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "531",
+        "Origin Airport": "DTW",
+        "Departure Time": "700A",
+        "Destination Airport": "STL",
+        "Arrival Time": "830A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "169",
+        "Origin Airport": "DTW",
+        "Departure Time": "735A",
+        "Destination Airport": "STL",
+        "Arrival Time": "812A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "484",
+        "Origin Airport": "DTW",
+        "Departure Time": "800A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1037A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "592",
+        "Origin Airport": "HOU",
+        "Departure Time": "650A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "750A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "866",
+        "Origin Airport": "HOU",
+        "Departure Time": "910A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "1130A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "408",
+        "Origin Airport": "HOU",
+        "Departure Time": "940A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1235P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "214",
+        "Origin Airport": "HOU",
+        "Departure Time": "755A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "940A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "317",
+        "Origin Airport": "HOU",
+        "Departure Time": "639A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "810A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1412",
+        "Origin Airport": "HOU",
+        "Departure Time": "615A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "718A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "682",
+        "Origin Airport": "HOU",
+        "Departure Time": "825A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "235P",
+        "Stops during flight": "3"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "130",
+        "Origin Airport": "HOU",
+        "Departure Time": "1230P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "450P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "631",
+        "Origin Airport": "HOU",
+        "Departure Time": "740A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1015A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "659",
+        "Origin Airport": "HOU",
+        "Departure Time": "305P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "510P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1047",
+        "Origin Airport": "HOU",
+        "Departure Time": "700A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1030A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1029",
+        "Origin Airport": "HOU",
+        "Departure Time": "800A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "1042A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "475",
+        "Origin Airport": "HOU",
+        "Departure Time": "630A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "730A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "4X",
+        "Flight": "216",
+        "Origin Airport": "HOU",
+        "Departure Time": "230P",
+        "Destination Airport": "MSY",
+        "Arrival Time": "610P",
+        "Stops during flight": "3"
+    },
+    {
+        "Airline": "4X",
+        "Flight": "375",
+        "Origin Airport": "HOU",
+        "Departure Time": "620P",
+        "Destination Airport": "MSY",
+        "Arrival Time": "815P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1242",
+        "Origin Airport": "HOU",
+        "Departure Time": "800A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "1024A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "690",
+        "Origin Airport": "HOU",
+        "Departure Time": "450P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "914P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "344",
+        "Origin Airport": "HOU",
+        "Departure Time": "754A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "151P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "760",
+        "Origin Airport": "HOU",
+        "Departure Time": "600A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "915A",
+        "Stops during flight": "3"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "421",
+        "Origin Airport": "HOU",
+        "Departure Time": "1215P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "200P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "598",
+        "Origin Airport": "HOU",
+        "Departure Time": "1030A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "406P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "592",
+        "Origin Airport": "HOU",
+        "Departure Time": "650A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "950A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "761",
+        "Origin Airport": "HOU",
+        "Departure Time": "650A",
+        "Destination Airport": "STL",
+        "Arrival Time": "845A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "845",
+        "Origin Airport": "JFK",
+        "Departure Time": "335P",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "825P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1917",
+        "Origin Airport": "JFK",
+        "Departure Time": "455P",
+        "Destination Airport": "ATL",
+        "Arrival Time": "716P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "717",
+        "Origin Airport": "JFK",
+        "Departure Time": "420P",
+        "Destination Airport": "BNA",
+        "Arrival Time": "707P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "44",
+        "Origin Airport": "JFK",
+        "Departure Time": "650A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "754A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "391",
+        "Origin Airport": "JFK",
+        "Departure Time": "1114A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1230P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "743",
+        "Origin Airport": "JFK",
+        "Departure Time": "550P",
+        "Destination Airport": "DEN",
+        "Arrival Time": "839P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1871",
+        "Origin Airport": "JFK",
+        "Departure Time": "545P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "843P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "817",
+        "Origin Airport": "JFK",
+        "Departure Time": "559P",
+        "Destination Airport": "DTW",
+        "Arrival Time": "809P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "805",
+        "Origin Airport": "JFK",
+        "Departure Time": "615P",
+        "Destination Airport": "HOU",
+        "Arrival Time": "929P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "7",
+        "Origin Airport": "JFK",
+        "Departure Time": "800A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1049A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "15",
+        "Origin Airport": "JFK",
+        "Departure Time": "855A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1149A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "PA",
+        "Flight": "403",
+        "Origin Airport": "JFK",
+        "Departure Time": "715A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1020A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "401",
+        "Origin Airport": "JFK",
+        "Departure Time": "625P",
+        "Destination Airport": "MSP",
+        "Arrival Time": "1004P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "881",
+        "Origin Airport": "JFK",
+        "Departure Time": "550P",
+        "Destination Airport": "MSY",
+        "Arrival Time": "822P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "903",
+        "Origin Airport": "JFK",
+        "Departure Time": "725P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "903P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "97",
+        "Origin Airport": "JFK",
+        "Departure Time": "214P",
+        "Destination Airport": "PHL",
+        "Arrival Time": "304P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "705",
+        "Origin Airport": "JFK",
+        "Departure Time": "505A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "842A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "711",
+        "Origin Airport": "JFK",
+        "Departure Time": "855P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "230A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1161",
+        "Origin Airport": "JFK",
+        "Departure Time": "740A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "921A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "37",
+        "Origin Airport": "JFK",
+        "Departure Time": "900A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1209P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "59",
+        "Origin Airport": "JFK",
+        "Departure Time": "800A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1133A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "203",
+        "Origin Airport": "JFK",
+        "Departure Time": "627A",
+        "Destination Airport": "STL",
+        "Arrival Time": "817A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "25",
+        "Origin Airport": "JFK",
+        "Departure Time": "1105A",
+        "Destination Airport": "STL",
+        "Arrival Time": "217P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "305",
+        "Origin Airport": "JFK",
+        "Departure Time": "550P",
+        "Destination Airport": "TPA",
+        "Arrival Time": "852P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "535",
+        "Origin Airport": "LAX",
+        "Departure Time": "810A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "1055A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "182",
+        "Origin Airport": "LAX",
+        "Departure Time": "1205A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "709A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "3008",
+        "Origin Airport": "LAX",
+        "Departure Time": "1205P",
+        "Destination Airport": "ATL",
+        "Arrival Time": "841P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "350",
+        "Origin Airport": "LAX",
+        "Departure Time": "150A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "749A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "520",
+        "Origin Airport": "LAX",
+        "Departure Time": "200P",
+        "Destination Airport": "BNA",
+        "Arrival Time": "850P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "996",
+        "Origin Airport": "LAX",
+        "Departure Time": "1230A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1146A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "932",
+        "Origin Airport": "LAX",
+        "Departure Time": "215A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1215P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "890",
+        "Origin Airport": "LAX",
+        "Departure Time": "210P",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1029P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "350",
+        "Origin Airport": "LAX",
+        "Departure Time": "150A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1146A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1218",
+        "Origin Airport": "LAX",
+        "Departure Time": "620A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "943A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "996",
+        "Origin Airport": "LAX",
+        "Departure Time": "1230A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "514A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1442",
+        "Origin Airport": "LAX",
+        "Departure Time": "340P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "946P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "330",
+        "Origin Airport": "LAX",
+        "Departure Time": "710A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "228P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "123",
+        "Origin Airport": "LAX",
+        "Departure Time": "530A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1135A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "845",
+        "Origin Airport": "LAX",
+        "Departure Time": "735A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "200P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "840",
+        "Origin Airport": "LAX",
+        "Departure Time": "800A",
+        "Destination Airport": "JFK",
+        "Arrival Time": "414P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "400",
+        "Origin Airport": "LAX",
+        "Departure Time": "730A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "330P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "300",
+        "Origin Airport": "LAX",
+        "Departure Time": "130A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "655A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "123",
+        "Origin Airport": "LAX",
+        "Departure Time": "530A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "1255P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "230",
+        "Origin Airport": "LAX",
+        "Departure Time": "715A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "227P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "170",
+        "Origin Airport": "LAX",
+        "Departure Time": "1215P",
+        "Destination Airport": "MSY",
+        "Arrival Time": "553P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1456",
+        "Origin Airport": "LAX",
+        "Departure Time": "630A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "1220P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1502",
+        "Origin Airport": "LAX",
+        "Departure Time": "825A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "434P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "242",
+        "Origin Airport": "LAX",
+        "Departure Time": "505P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "1157P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "202",
+        "Origin Airport": "LAX",
+        "Departure Time": "600P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "1144P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "118",
+        "Origin Airport": "LAX",
+        "Departure Time": "1130P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "508A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1502",
+        "Origin Airport": "LAX",
+        "Departure Time": "1005A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "734P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "252",
+        "Origin Airport": "LAX",
+        "Departure Time": "135P",
+        "Destination Airport": "PHL",
+        "Arrival Time": "1245A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "98",
+        "Origin Airport": "LAX",
+        "Departure Time": "1045P",
+        "Destination Airport": "PHL",
+        "Arrival Time": "632A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "252",
+        "Origin Airport": "LAX",
+        "Departure Time": "855P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1100P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "305",
+        "Origin Airport": "LAX",
+        "Departure Time": "945P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1155P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1612",
+        "Origin Airport": "LAX",
+        "Departure Time": "959P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1219A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "300",
+        "Origin Airport": "LAX",
+        "Departure Time": "1010P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1215A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "306",
+        "Origin Airport": "LAX",
+        "Departure Time": "1030P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1250A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1719",
+        "Origin Airport": "LAX",
+        "Departure Time": "610A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "841A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1716",
+        "Origin Airport": "LAX",
+        "Departure Time": "330P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "732P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "143",
+        "Origin Airport": "LAX",
+        "Departure Time": "1250A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "159A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "644",
+        "Origin Airport": "LAX",
+        "Departure Time": "600A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "706A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1014",
+        "Origin Airport": "LAX",
+        "Departure Time": "600P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "716P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1722",
+        "Origin Airport": "LAX",
+        "Departure Time": "630P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "752P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "187",
+        "Origin Airport": "LAX",
+        "Departure Time": "700P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "816P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "72",
+        "Origin Airport": "LAX",
+        "Departure Time": "1250A",
+        "Destination Airport": "STL",
+        "Arrival Time": "610A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1434",
+        "Origin Airport": "LAX",
+        "Departure Time": "835A",
+        "Destination Airport": "STL",
+        "Arrival Time": "412P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "504",
+        "Origin Airport": "LAX",
+        "Departure Time": "1255P",
+        "Destination Airport": "STL",
+        "Arrival Time": "815P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "808",
+        "Origin Airport": "LAX",
+        "Departure Time": "800A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "337P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "170",
+        "Origin Airport": "LAX",
+        "Departure Time": "1215P",
+        "Destination Airport": "TPA",
+        "Arrival Time": "843P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1707",
+        "Origin Airport": "MIA",
+        "Departure Time": "745A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "123P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "167",
+        "Origin Airport": "MIA",
+        "Departure Time": "600A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "741A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "574",
+        "Origin Airport": "MIA",
+        "Departure Time": "910P",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1051P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1638",
+        "Origin Airport": "MIA",
+        "Departure Time": "739A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "858A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1586",
+        "Origin Airport": "MIA",
+        "Departure Time": "700A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1123A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1576",
+        "Origin Airport": "MIA",
+        "Departure Time": "755A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1111A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "PA",
+        "Flight": "2440",
+        "Origin Airport": "MIA",
+        "Departure Time": "735A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1000A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1971",
+        "Origin Airport": "MIA",
+        "Departure Time": "135P",
+        "Destination Airport": "DCA",
+        "Arrival Time": "618P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "255",
+        "Origin Airport": "MIA",
+        "Departure Time": "725A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1101A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "910",
+        "Origin Airport": "MIA",
+        "Departure Time": "655P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "901P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1080",
+        "Origin Airport": "MIA",
+        "Departure Time": "659P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "1036P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1264",
+        "Origin Airport": "MIA",
+        "Departure Time": "820A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "1250P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "998",
+        "Origin Airport": "MIA",
+        "Departure Time": "610P",
+        "Destination Airport": "DTW",
+        "Arrival Time": "910P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1080",
+        "Origin Airport": "MIA",
+        "Departure Time": "659P",
+        "Destination Airport": "HOU",
+        "Arrival Time": "854P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "926",
+        "Origin Airport": "MIA",
+        "Departure Time": "703P",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1215A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "424",
+        "Origin Airport": "MIA",
+        "Departure Time": "700P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "951P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1449",
+        "Origin Airport": "MIA",
+        "Departure Time": "800A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1046A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "199",
+        "Origin Airport": "MIA",
+        "Departure Time": "815A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1251P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "739",
+        "Origin Airport": "MIA",
+        "Departure Time": "630A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "855A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "395",
+        "Origin Airport": "MIA",
+        "Departure Time": "700A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "901A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "941",
+        "Origin Airport": "MIA",
+        "Departure Time": "1255P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "437P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "660",
+        "Origin Airport": "MIA",
+        "Departure Time": "630A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "909A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1120",
+        "Origin Airport": "MIA",
+        "Departure Time": "540P",
+        "Destination Airport": "PHL",
+        "Arrival Time": "927P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1441",
+        "Origin Airport": "MIA",
+        "Departure Time": "1255P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "517P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1550",
+        "Origin Airport": "MIA",
+        "Departure Time": "700A",
+        "Destination Airport": "PVD",
+        "Arrival Time": "1121A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1382",
+        "Origin Airport": "MIA",
+        "Departure Time": "610A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "819A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "27",
+        "Origin Airport": "MIA",
+        "Departure Time": "800A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1127A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "379",
+        "Origin Airport": "MIA",
+        "Departure Time": "710A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1027A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "PA",
+        "Flight": "442",
+        "Origin Airport": "MIA",
+        "Departure Time": "130P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "640P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "245",
+        "Origin Airport": "MIA",
+        "Departure Time": "720A",
+        "Destination Airport": "STL",
+        "Arrival Time": "1118A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "633",
+        "Origin Airport": "MIA",
+        "Departure Time": "918A",
+        "Destination Airport": "STL",
+        "Arrival Time": "1112A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1586",
+        "Origin Airport": "MIA",
+        "Departure Time": "700A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "756A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "245",
+        "Origin Airport": "MIA",
+        "Departure Time": "720A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "917A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "939",
+        "Origin Airport": "MSP",
+        "Departure Time": "600A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "922A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1856",
+        "Origin Airport": "MSP",
+        "Departure Time": "115P",
+        "Destination Airport": "ATL",
+        "Arrival Time": "559P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1239",
+        "Origin Airport": "MSP",
+        "Departure Time": "300P",
+        "Destination Airport": "ATL",
+        "Arrival Time": "852P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "552",
+        "Origin Airport": "MSP",
+        "Departure Time": "1107A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "250P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "720",
+        "Origin Airport": "MSP",
+        "Departure Time": "750A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1122A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "356",
+        "Origin Airport": "MSP",
+        "Departure Time": "845P",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1212A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "312",
+        "Origin Airport": "MSP",
+        "Departure Time": "700A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1013A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "389",
+        "Origin Airport": "MSP",
+        "Departure Time": "650A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "757A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "313",
+        "Origin Airport": "MSP",
+        "Departure Time": "625P",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1049P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "403",
+        "Origin Airport": "MSP",
+        "Departure Time": "645P",
+        "Destination Airport": "DEN",
+        "Arrival Time": "746P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "525",
+        "Origin Airport": "MSP",
+        "Departure Time": "653A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "1123A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "189",
+        "Origin Airport": "MSP",
+        "Departure Time": "735A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "952A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "740",
+        "Origin Airport": "MSP",
+        "Departure Time": "600A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "838A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "639",
+        "Origin Airport": "MSP",
+        "Departure Time": "349P",
+        "Destination Airport": "HOU",
+        "Arrival Time": "846P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "202",
+        "Origin Airport": "MSP",
+        "Departure Time": "1137A",
+        "Destination Airport": "JFK",
+        "Arrival Time": "450P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "933",
+        "Origin Airport": "MSP",
+        "Departure Time": "930A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1120A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "570",
+        "Origin Airport": "MSP",
+        "Departure Time": "755A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1230P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "453",
+        "Origin Airport": "MSP",
+        "Departure Time": "1200N",
+        "Destination Airport": "MSY",
+        "Arrival Time": "405P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "ZK",
+        "Flight": "38",
+        "Origin Airport": "MSP",
+        "Departure Time": "420P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "705P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "86",
+        "Origin Airport": "MSP",
+        "Departure Time": "500P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "612P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "140",
+        "Origin Airport": "MSP",
+        "Departure Time": "500P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "615P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "680",
+        "Origin Airport": "MSP",
+        "Departure Time": "740A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "1101A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "99",
+        "Origin Airport": "MSP",
+        "Departure Time": "745A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1006A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1855",
+        "Origin Airport": "MSP",
+        "Departure Time": "655P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1050P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "834",
+        "Origin Airport": "MSP",
+        "Departure Time": "300P",
+        "Destination Airport": "PVD",
+        "Arrival Time": "807P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "7",
+        "Origin Airport": "MSP",
+        "Departure Time": "925A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1100A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "606",
+        "Origin Airport": "MSP",
+        "Departure Time": "845A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "107P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "361",
+        "Origin Airport": "MSP",
+        "Departure Time": "1030P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1227A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "597",
+        "Origin Airport": "MSP",
+        "Departure Time": "610P",
+        "Destination Airport": "STL",
+        "Arrival Time": "741P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "599",
+        "Origin Airport": "MSP",
+        "Departure Time": "900P",
+        "Destination Airport": "STL",
+        "Arrival Time": "1025P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "478",
+        "Origin Airport": "MSP",
+        "Departure Time": "750A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1158A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1707",
+        "Origin Airport": "MSY",
+        "Departure Time": "920A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "123P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "30",
+        "Origin Airport": "MSY",
+        "Departure Time": "1210P",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "355P",
+        "Stops during flight": "3"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1229",
+        "Origin Airport": "MSY",
+        "Departure Time": "845P",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1059P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1424",
+        "Origin Airport": "MSY",
+        "Departure Time": "630A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "755A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "103",
+        "Origin Airport": "MSY",
+        "Departure Time": "955A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "1155A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "546",
+        "Origin Airport": "MSY",
+        "Departure Time": "830A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "241P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1639",
+        "Origin Airport": "MSY",
+        "Departure Time": "730A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1114A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "119",
+        "Origin Airport": "MSY",
+        "Departure Time": "330P",
+        "Destination Airport": "DEN",
+        "Arrival Time": "525P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "651",
+        "Origin Airport": "MSY",
+        "Departure Time": "600A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "731A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "382",
+        "Origin Airport": "MSY",
+        "Departure Time": "700A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "107P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "304",
+        "Origin Airport": "MSY",
+        "Departure Time": "840A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "425P",
+        "Stops during flight": "4"
+    },
+    {
+        "Airline": "4X",
+        "Flight": "370",
+        "Origin Airport": "MSY",
+        "Departure Time": "615A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "810A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "4X",
+        "Flight": "201",
+        "Origin Airport": "MSY",
+        "Departure Time": "835A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1220P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "843",
+        "Origin Airport": "MSY",
+        "Departure Time": "1115A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1215P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "758",
+        "Origin Airport": "MSY",
+        "Departure Time": "935P",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1035P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "880",
+        "Origin Airport": "MSY",
+        "Departure Time": "1214P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "404P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1477",
+        "Origin Airport": "MSY",
+        "Departure Time": "814A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1017A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "453",
+        "Origin Airport": "MSY",
+        "Departure Time": "715P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1045P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "485",
+        "Origin Airport": "MSY",
+        "Departure Time": "720A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "959A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "397",
+        "Origin Airport": "MSY",
+        "Departure Time": "635A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "1031A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "174",
+        "Origin Airport": "MSY",
+        "Departure Time": "731A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "945A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "864",
+        "Origin Airport": "MSY",
+        "Departure Time": "635A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "1150A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "453",
+        "Origin Airport": "MSY",
+        "Departure Time": "715P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1015P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1476",
+        "Origin Airport": "MSY",
+        "Departure Time": "1215P",
+        "Destination Airport": "PVD",
+        "Arrival Time": "616P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "608",
+        "Origin Airport": "MSY",
+        "Departure Time": "536P",
+        "Destination Airport": "RDU",
+        "Arrival Time": "1114P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "363",
+        "Origin Airport": "MSY",
+        "Departure Time": "734A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1029A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "485",
+        "Origin Airport": "MSY",
+        "Departure Time": "330P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "756P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "862",
+        "Origin Airport": "MSY",
+        "Departure Time": "730A",
+        "Destination Airport": "STL",
+        "Arrival Time": "1047A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "556",
+        "Origin Airport": "MSY",
+        "Departure Time": "804A",
+        "Destination Airport": "STL",
+        "Arrival Time": "950A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1568",
+        "Origin Airport": "MSY",
+        "Departure Time": "250P",
+        "Destination Airport": "TPA",
+        "Arrival Time": "519P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "359",
+        "Origin Airport": "ORD",
+        "Departure Time": "905A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "1102A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "401",
+        "Origin Airport": "ORD",
+        "Departure Time": "600A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1108A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "579",
+        "Origin Airport": "ORD",
+        "Departure Time": "620A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "903A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1488",
+        "Origin Airport": "ORD",
+        "Departure Time": "630A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "757A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1401",
+        "Origin Airport": "ORD",
+        "Departure Time": "733A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "907A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "284",
+        "Origin Airport": "ORD",
+        "Departure Time": "600A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "912A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "390",
+        "Origin Airport": "ORD",
+        "Departure Time": "915A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "211P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "600",
+        "Origin Airport": "ORD",
+        "Departure Time": "620A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "900A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "482",
+        "Origin Airport": "ORD",
+        "Departure Time": "544P",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1029P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "293",
+        "Origin Airport": "ORD",
+        "Departure Time": "612A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "743A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "ZK",
+        "Flight": "402",
+        "Origin Airport": "ORD",
+        "Departure Time": "705A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1055A",
+        "Stops during flight": "3"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "229",
+        "Origin Airport": "ORD",
+        "Departure Time": "1000P",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1136P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "348",
+        "Origin Airport": "ORD",
+        "Departure Time": "615A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "836A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "642",
+        "Origin Airport": "ORD",
+        "Departure Time": "1010A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "251P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "153",
+        "Origin Airport": "ORD",
+        "Departure Time": "930P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "1149P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "161",
+        "Origin Airport": "ORD",
+        "Departure Time": "610A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "823A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "212",
+        "Origin Airport": "ORD",
+        "Departure Time": "830P",
+        "Destination Airport": "DTW",
+        "Arrival Time": "1040P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "877",
+        "Origin Airport": "ORD",
+        "Departure Time": "830A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1255P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "150",
+        "Origin Airport": "ORD",
+        "Departure Time": "314P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "622P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "635",
+        "Origin Airport": "ORD",
+        "Departure Time": "700A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "914A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "39",
+        "Origin Airport": "ORD",
+        "Departure Time": "815A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1032A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "281",
+        "Origin Airport": "ORD",
+        "Departure Time": "1115A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "337P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "819",
+        "Origin Airport": "ORD",
+        "Departure Time": "1155A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "508P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "117",
+        "Origin Airport": "ORD",
+        "Departure Time": "1000P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1227A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "561",
+        "Origin Airport": "ORD",
+        "Departure Time": "530A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1045A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "671",
+        "Origin Airport": "ORD",
+        "Departure Time": "630A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1025A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "119",
+        "Origin Airport": "ORD",
+        "Departure Time": "600A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "715A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "ZK",
+        "Flight": "35",
+        "Origin Airport": "ORD",
+        "Departure Time": "114P",
+        "Destination Airport": "MSP",
+        "Arrival Time": "410P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "663",
+        "Origin Airport": "ORD",
+        "Departure Time": "655P",
+        "Destination Airport": "MSP",
+        "Arrival Time": "825P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "463",
+        "Origin Airport": "ORD",
+        "Departure Time": "745A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "1002A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1507",
+        "Origin Airport": "ORD",
+        "Departure Time": "310P",
+        "Destination Airport": "MSY",
+        "Arrival Time": "735P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "519",
+        "Origin Airport": "ORD",
+        "Departure Time": "652P",
+        "Destination Airport": "MSY",
+        "Arrival Time": "916P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "478",
+        "Origin Airport": "ORD",
+        "Departure Time": "540A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "945A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "176",
+        "Origin Airport": "ORD",
+        "Departure Time": "635A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "928A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "111",
+        "Origin Airport": "ORD",
+        "Departure Time": "315A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "610A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "109",
+        "Origin Airport": "ORD",
+        "Departure Time": "800P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1247A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1362",
+        "Origin Airport": "ORD",
+        "Departure Time": "755P",
+        "Destination Airport": "PVD",
+        "Arrival Time": "1058P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1273",
+        "Origin Airport": "ORD",
+        "Departure Time": "626A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "921A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "293",
+        "Origin Airport": "ORD",
+        "Departure Time": "612A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1027A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "673",
+        "Origin Airport": "ORD",
+        "Departure Time": "930P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1207A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "657",
+        "Origin Airport": "ORD",
+        "Departure Time": "1000P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1234A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "187",
+        "Origin Airport": "ORD",
+        "Departure Time": "812A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1045A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1765",
+        "Origin Airport": "ORD",
+        "Departure Time": "615P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1010P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1171",
+        "Origin Airport": "ORD",
+        "Departure Time": "700A",
+        "Destination Airport": "STL",
+        "Arrival Time": "816A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "779",
+        "Origin Airport": "ORD",
+        "Departure Time": "700P",
+        "Destination Airport": "STL",
+        "Arrival Time": "824P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "974",
+        "Origin Airport": "ORD",
+        "Departure Time": "314P",
+        "Destination Airport": "TPA",
+        "Arrival Time": "649P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "315",
+        "Origin Airport": "ORD",
+        "Departure Time": "530P",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1024P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1235",
+        "Origin Airport": "PHL",
+        "Departure Time": "935A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1249P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "771",
+        "Origin Airport": "PHL",
+        "Departure Time": "950A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1207P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "601",
+        "Origin Airport": "PHL",
+        "Departure Time": "800A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "910A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "404",
+        "Origin Airport": "PHL",
+        "Departure Time": "700A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "814A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1576",
+        "Origin Airport": "PHL",
+        "Departure Time": "855P",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1013P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1281",
+        "Origin Airport": "PHL",
+        "Departure Time": "610A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1036A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "147",
+        "Origin Airport": "PHL",
+        "Departure Time": "850A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1058A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1281",
+        "Origin Airport": "PHL",
+        "Departure Time": "610A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "833A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1191",
+        "Origin Airport": "PHL",
+        "Departure Time": "645A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "830A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "712",
+        "Origin Airport": "PHL",
+        "Departure Time": "236P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "326P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "39",
+        "Origin Airport": "PHL",
+        "Departure Time": "610A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1032A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "435",
+        "Origin Airport": "PHL",
+        "Departure Time": "710A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1006A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "367",
+        "Origin Airport": "PHL",
+        "Departure Time": "410P",
+        "Destination Airport": "MIA",
+        "Arrival Time": "920P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "777",
+        "Origin Airport": "PHL",
+        "Departure Time": "900A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "1052A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "553",
+        "Origin Airport": "PHL",
+        "Departure Time": "255P",
+        "Destination Airport": "MSY",
+        "Arrival Time": "500P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "271",
+        "Origin Airport": "PHL",
+        "Departure Time": "703A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "815A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "205",
+        "Origin Airport": "PHL",
+        "Departure Time": "1245P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "325P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "353",
+        "Origin Airport": "PHL",
+        "Departure Time": "830A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1156A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1238",
+        "Origin Airport": "PHL",
+        "Departure Time": "955A",
+        "Destination Airport": "PVD",
+        "Arrival Time": "1057A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "649",
+        "Origin Airport": "PHL",
+        "Departure Time": "805A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "928A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "391",
+        "Origin Airport": "PHL",
+        "Departure Time": "1245P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "522P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "183",
+        "Origin Airport": "PHL",
+        "Departure Time": "830A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1129A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "189",
+        "Origin Airport": "PHL",
+        "Departure Time": "1030A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "310P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "217",
+        "Origin Airport": "PHL",
+        "Departure Time": "700A",
+        "Destination Airport": "STL",
+        "Arrival Time": "832A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1159",
+        "Origin Airport": "PHL",
+        "Departure Time": "1220P",
+        "Destination Airport": "STL",
+        "Arrival Time": "347P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "801",
+        "Origin Airport": "PHL",
+        "Departure Time": "700A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "940A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "649",
+        "Origin Airport": "PHL",
+        "Departure Time": "805A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1158A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "664",
+        "Origin Airport": "PHX",
+        "Departure Time": "700A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "805A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "938",
+        "Origin Airport": "PHX",
+        "Departure Time": "1010P",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "1115P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "801",
+        "Origin Airport": "PHX",
+        "Departure Time": "1030P",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "1130P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "314",
+        "Origin Airport": "PHX",
+        "Departure Time": "1210A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "529A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "410",
+        "Origin Airport": "PHX",
+        "Departure Time": "835A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "422P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "162",
+        "Origin Airport": "PHX",
+        "Departure Time": "910A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "100P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "826",
+        "Origin Airport": "PHX",
+        "Departure Time": "910A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "357P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1268",
+        "Origin Airport": "PHX",
+        "Departure Time": "1115A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "711P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "314",
+        "Origin Airport": "PHX",
+        "Departure Time": "1210A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "755A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "396",
+        "Origin Airport": "PHX",
+        "Departure Time": "800A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "940A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "499",
+        "Origin Airport": "PHX",
+        "Departure Time": "1200N",
+        "Destination Airport": "DEN",
+        "Arrival Time": "338P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "534",
+        "Origin Airport": "PHX",
+        "Departure Time": "235A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "538A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "280",
+        "Origin Airport": "PHX",
+        "Departure Time": "1050A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "407P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1530",
+        "Origin Airport": "PHX",
+        "Departure Time": "705P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "1016P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "256",
+        "Origin Airport": "PHX",
+        "Departure Time": "1240A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "617A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "588",
+        "Origin Airport": "PHX",
+        "Departure Time": "1255P",
+        "Destination Airport": "DTW",
+        "Arrival Time": "830P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "559",
+        "Origin Airport": "PHX",
+        "Departure Time": "700A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1145A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "308",
+        "Origin Airport": "PHX",
+        "Departure Time": "845A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "100P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "611",
+        "Origin Airport": "PHX",
+        "Departure Time": "1030A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "210P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "290",
+        "Origin Airport": "PHX",
+        "Departure Time": "900A",
+        "Destination Airport": "JFK",
+        "Arrival Time": "340P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "291",
+        "Origin Airport": "PHX",
+        "Departure Time": "630A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "640A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1797",
+        "Origin Airport": "PHX",
+        "Departure Time": "850P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "903P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "1950",
+        "Origin Airport": "PHX",
+        "Departure Time": "900P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "925P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "274",
+        "Origin Airport": "PHX",
+        "Departure Time": "935P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "950P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "35",
+        "Origin Airport": "PHX",
+        "Departure Time": "955P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1015P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "100",
+        "Origin Airport": "PHX",
+        "Departure Time": "815A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "1218P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "586",
+        "Origin Airport": "PHX",
+        "Departure Time": "613P",
+        "Destination Airport": "MSP",
+        "Arrival Time": "1017P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "123",
+        "Origin Airport": "PHX",
+        "Departure Time": "755A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "1255P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1276",
+        "Origin Airport": "PHX",
+        "Departure Time": "1255A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "503A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "333",
+        "Origin Airport": "PHX",
+        "Departure Time": "850P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "118A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "648",
+        "Origin Airport": "PHX",
+        "Departure Time": "830A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "415P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "431",
+        "Origin Airport": "PHX",
+        "Departure Time": "1245P",
+        "Destination Airport": "PHL",
+        "Arrival Time": "700P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "431",
+        "Origin Airport": "PHX",
+        "Departure Time": "1245P",
+        "Destination Airport": "PVD",
+        "Arrival Time": "838P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "523",
+        "Origin Airport": "PHX",
+        "Departure Time": "715A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1130A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1233",
+        "Origin Airport": "PHX",
+        "Departure Time": "745A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1125A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AS",
+        "Flight": "603",
+        "Origin Airport": "PHX",
+        "Departure Time": "810A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1000A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1444",
+        "Origin Airport": "PHX",
+        "Departure Time": "710A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "810A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "721",
+        "Origin Airport": "PHX",
+        "Departure Time": "520P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "715P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "753",
+        "Origin Airport": "PHX",
+        "Departure Time": "715P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "805P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "146",
+        "Origin Airport": "PHX",
+        "Departure Time": "255A",
+        "Destination Airport": "STL",
+        "Arrival Time": "646A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "696",
+        "Origin Airport": "PHX",
+        "Departure Time": "815A",
+        "Destination Airport": "STL",
+        "Arrival Time": "100P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1002",
+        "Origin Airport": "PHX",
+        "Departure Time": "910A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "441P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1619",
+        "Origin Airport": "PVD",
+        "Departure Time": "630A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1113A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "291",
+        "Origin Airport": "PVD",
+        "Departure Time": "630A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "752A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "523",
+        "Origin Airport": "PVD",
+        "Departure Time": "1005A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "255P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "1003",
+        "Origin Airport": "PVD",
+        "Departure Time": "630A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "840A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1545",
+        "Origin Airport": "PVD",
+        "Departure Time": "640A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1143A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1185",
+        "Origin Airport": "PVD",
+        "Departure Time": "1155A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "352P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "133",
+        "Origin Airport": "PVD",
+        "Departure Time": "625A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "753A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1763",
+        "Origin Airport": "PVD",
+        "Departure Time": "755P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "931P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "221",
+        "Origin Airport": "PVD",
+        "Departure Time": "655P",
+        "Destination Airport": "PHL",
+        "Arrival Time": "803P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1559",
+        "Origin Airport": "PVD",
+        "Departure Time": "616P",
+        "Destination Airport": "RDU",
+        "Arrival Time": "807P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "697",
+        "Origin Airport": "PVD",
+        "Departure Time": "730A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1232P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "430",
+        "Origin Airport": "PVD",
+        "Departure Time": "600P",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1047P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1175",
+        "Origin Airport": "RDU",
+        "Departure Time": "615A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "740A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1636",
+        "Origin Airport": "RDU",
+        "Departure Time": "815P",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1054P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1159",
+        "Origin Airport": "RDU",
+        "Departure Time": "820A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "856A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "303",
+        "Origin Airport": "RDU",
+        "Departure Time": "115P",
+        "Destination Airport": "BNA",
+        "Arrival Time": "313P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1072",
+        "Origin Airport": "RDU",
+        "Departure Time": "845A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1023A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1691",
+        "Origin Airport": "RDU",
+        "Departure Time": "710A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "804A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "429",
+        "Origin Airport": "RDU",
+        "Departure Time": "635A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "829A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1373",
+        "Origin Airport": "RDU",
+        "Departure Time": "810A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "1003A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1243",
+        "Origin Airport": "RDU",
+        "Departure Time": "420P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "851P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1062",
+        "Origin Airport": "RDU",
+        "Departure Time": "325P",
+        "Destination Airport": "DTW",
+        "Arrival Time": "514P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "412",
+        "Origin Airport": "RDU",
+        "Departure Time": "640P",
+        "Destination Airport": "DTW",
+        "Arrival Time": "955P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1100",
+        "Origin Airport": "RDU",
+        "Departure Time": "420P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "733P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1635",
+        "Origin Airport": "RDU",
+        "Departure Time": "900P",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1103P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1219",
+        "Origin Airport": "RDU",
+        "Departure Time": "701A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "808A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "205",
+        "Origin Airport": "RDU",
+        "Departure Time": "625P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "855P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "270",
+        "Origin Airport": "RDU",
+        "Departure Time": "750A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "900A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1691",
+        "Origin Airport": "RDU",
+        "Departure Time": "710A",
+        "Destination Airport": "PVD",
+        "Arrival Time": "950A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "505",
+        "Origin Airport": "RDU",
+        "Departure Time": "434P",
+        "Destination Airport": "STL",
+        "Arrival Time": "554P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1175",
+        "Origin Airport": "RDU",
+        "Departure Time": "615A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1000A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1005",
+        "Origin Airport": "RDU",
+        "Departure Time": "900P",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1048P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "509",
+        "Origin Airport": "SEA",
+        "Departure Time": "800A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "134P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "706",
+        "Origin Airport": "SEA",
+        "Departure Time": "830A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "349P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1406",
+        "Origin Airport": "SEA",
+        "Departure Time": "750A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "423P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "46",
+        "Origin Airport": "SEA",
+        "Departure Time": "700A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "453P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "56",
+        "Origin Airport": "SEA",
+        "Departure Time": "100P",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1100P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "80",
+        "Origin Airport": "SEA",
+        "Departure Time": "112A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1040A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "266",
+        "Origin Airport": "SEA",
+        "Departure Time": "115P",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1102P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "1232",
+        "Origin Airport": "SEA",
+        "Departure Time": "620A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "947A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "396",
+        "Origin Airport": "SEA",
+        "Departure Time": "1212A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "545A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "994",
+        "Origin Airport": "SEA",
+        "Departure Time": "825A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "340P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "578",
+        "Origin Airport": "SEA",
+        "Departure Time": "845A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "353P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "708",
+        "Origin Airport": "SEA",
+        "Departure Time": "850A",
+        "Destination Airport": "JFK",
+        "Arrival Time": "450P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "620",
+        "Origin Airport": "SEA",
+        "Departure Time": "650A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "911A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1915",
+        "Origin Airport": "SEA",
+        "Departure Time": "100P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "327P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1919",
+        "Origin Airport": "SEA",
+        "Departure Time": "230P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "456P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1247",
+        "Origin Airport": "SEA",
+        "Departure Time": "300P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "714P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AS",
+        "Flight": "226",
+        "Origin Airport": "SEA",
+        "Departure Time": "345P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "615P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "558",
+        "Origin Airport": "SEA",
+        "Departure Time": "1235P",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1215A",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "26",
+        "Origin Airport": "SEA",
+        "Departure Time": "1255P",
+        "Destination Airport": "MIA",
+        "Arrival Time": "930P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "158",
+        "Origin Airport": "SEA",
+        "Departure Time": "100A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "605A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "170",
+        "Origin Airport": "SEA",
+        "Departure Time": "830A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "553P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "632",
+        "Origin Airport": "SEA",
+        "Departure Time": "1201A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "541A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "158",
+        "Origin Airport": "SEA",
+        "Departure Time": "100A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "814A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "156",
+        "Origin Airport": "SEA",
+        "Departure Time": "630P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "1213A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AS",
+        "Flight": "394",
+        "Origin Airport": "SEA",
+        "Departure Time": "650A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "405P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AS",
+        "Flight": "610",
+        "Origin Airport": "SEA",
+        "Departure Time": "140P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "525P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "716",
+        "Origin Airport": "SEA",
+        "Departure Time": "940A",
+        "Destination Airport": "PVD",
+        "Arrival Time": "741P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1065",
+        "Origin Airport": "SEA",
+        "Departure Time": "625A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "829A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "603",
+        "Origin Airport": "SEA",
+        "Departure Time": "655P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "851P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1781",
+        "Origin Airport": "SEA",
+        "Departure Time": "830P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1026P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "80",
+        "Origin Airport": "SEA",
+        "Departure Time": "112A",
+        "Destination Airport": "STL",
+        "Arrival Time": "657A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "170",
+        "Origin Airport": "SEA",
+        "Departure Time": "830A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "843P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "215",
+        "Origin Airport": "SFO",
+        "Departure Time": "810A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "1243P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "964",
+        "Origin Airport": "SFO",
+        "Departure Time": "600P",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "915P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "618",
+        "Origin Airport": "SFO",
+        "Departure Time": "700A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "554P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "331",
+        "Origin Airport": "SFO",
+        "Departure Time": "830A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "348P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "530",
+        "Origin Airport": "SFO",
+        "Departure Time": "1222P",
+        "Destination Airport": "BNA",
+        "Arrival Time": "638P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "566",
+        "Origin Airport": "SFO",
+        "Departure Time": "700A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "519P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1118",
+        "Origin Airport": "SFO",
+        "Departure Time": "705A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "627P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "92",
+        "Origin Airport": "SFO",
+        "Departure Time": "800A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "429P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1256",
+        "Origin Airport": "SFO",
+        "Departure Time": "640A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "447P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1492",
+        "Origin Airport": "SFO",
+        "Departure Time": "700A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "546P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "654",
+        "Origin Airport": "SFO",
+        "Departure Time": "630A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "952A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "506",
+        "Origin Airport": "SFO",
+        "Departure Time": "420P",
+        "Destination Airport": "DEN",
+        "Arrival Time": "743P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "490",
+        "Origin Airport": "SFO",
+        "Departure Time": "705P",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1029P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "254",
+        "Origin Airport": "SFO",
+        "Departure Time": "500P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "1013P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "852",
+        "Origin Airport": "SFO",
+        "Departure Time": "555P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "1102P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "340",
+        "Origin Airport": "SFO",
+        "Departure Time": "810A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "335P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "342",
+        "Origin Airport": "SFO",
+        "Departure Time": "1220P",
+        "Destination Airport": "DTW",
+        "Arrival Time": "749P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "955",
+        "Origin Airport": "SFO",
+        "Departure Time": "815A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "245P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "969",
+        "Origin Airport": "SFO",
+        "Departure Time": "930A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "435P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "16",
+        "Origin Airport": "SFO",
+        "Departure Time": "1230P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "846P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1426",
+        "Origin Airport": "SFO",
+        "Departure Time": "1255P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "1045P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "808",
+        "Origin Airport": "SFO",
+        "Departure Time": "600A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "704A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "823",
+        "Origin Airport": "SFO",
+        "Departure Time": "800A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "915A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1025",
+        "Origin Airport": "SFO",
+        "Departure Time": "1000A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1112A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "264",
+        "Origin Airport": "SFO",
+        "Departure Time": "1200N",
+        "Destination Airport": "LAX",
+        "Arrival Time": "110P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "2170",
+        "Origin Airport": "SFO",
+        "Departure Time": "100P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "218P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "275",
+        "Origin Airport": "SFO",
+        "Departure Time": "200P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "312P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "387",
+        "Origin Airport": "SFO",
+        "Departure Time": "300P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "411P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "453",
+        "Origin Airport": "SFO",
+        "Departure Time": "400P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "511P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "2192",
+        "Origin Airport": "SFO",
+        "Departure Time": "500P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "610P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "2188",
+        "Origin Airport": "SFO",
+        "Departure Time": "600P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "710P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "979",
+        "Origin Airport": "SFO",
+        "Departure Time": "700P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "812P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "805",
+        "Origin Airport": "SFO",
+        "Departure Time": "800P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "915P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1131",
+        "Origin Airport": "SFO",
+        "Departure Time": "900P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1017P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "2389",
+        "Origin Airport": "SFO",
+        "Departure Time": "1000P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1116P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "PA",
+        "Flight": "445",
+        "Origin Airport": "SFO",
+        "Departure Time": "700A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "519P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1540",
+        "Origin Airport": "SFO",
+        "Departure Time": "730A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "345P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "928",
+        "Origin Airport": "SFO",
+        "Departure Time": "130A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "700A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "618",
+        "Origin Airport": "SFO",
+        "Departure Time": "700A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "250P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "580",
+        "Origin Airport": "SFO",
+        "Departure Time": "1225A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "915A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "778",
+        "Origin Airport": "SFO",
+        "Departure Time": "620A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "1233P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "194",
+        "Origin Airport": "SFO",
+        "Departure Time": "420P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "1021P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1776",
+        "Origin Airport": "SFO",
+        "Departure Time": "745A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "341P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "624",
+        "Origin Airport": "SFO",
+        "Departure Time": "1140P",
+        "Destination Airport": "PHL",
+        "Arrival Time": "1002A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "897",
+        "Origin Airport": "SFO",
+        "Departure Time": "655A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "950A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "1236",
+        "Origin Airport": "SFO",
+        "Departure Time": "520P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "926P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1750",
+        "Origin Airport": "SFO",
+        "Departure Time": "630A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "831A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AS",
+        "Flight": "147",
+        "Origin Airport": "SFO",
+        "Departure Time": "1025A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1220P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "2173",
+        "Origin Airport": "SFO",
+        "Departure Time": "410P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "610P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "1774",
+        "Origin Airport": "SFO",
+        "Departure Time": "920P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1122P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "152",
+        "Origin Airport": "SFO",
+        "Departure Time": "640A",
+        "Destination Airport": "STL",
+        "Arrival Time": "1218P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "1406",
+        "Origin Airport": "SFO",
+        "Departure Time": "225P",
+        "Destination Airport": "STL",
+        "Arrival Time": "1011P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "28",
+        "Origin Airport": "SFO",
+        "Departure Time": "1245P",
+        "Destination Airport": "TPA",
+        "Arrival Time": "1025P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "297",
+        "Origin Airport": "STL",
+        "Departure Time": "917A",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "1102A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "828",
+        "Origin Airport": "STL",
+        "Departure Time": "630A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "858A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1434",
+        "Origin Airport": "STL",
+        "Departure Time": "500P",
+        "Destination Airport": "ATL",
+        "Arrival Time": "726P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1628",
+        "Origin Airport": "STL",
+        "Departure Time": "631A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "731A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "686",
+        "Origin Airport": "STL",
+        "Departure Time": "802P",
+        "Destination Airport": "BNA",
+        "Arrival Time": "918P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "196",
+        "Origin Airport": "STL",
+        "Departure Time": "741A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "1109A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "278",
+        "Origin Airport": "STL",
+        "Departure Time": "220P",
+        "Destination Airport": "BOS",
+        "Arrival Time": "747P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "80",
+        "Origin Airport": "STL",
+        "Departure Time": "749A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1040A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "240",
+        "Origin Airport": "STL",
+        "Departure Time": "812P",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1108P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "679",
+        "Origin Airport": "STL",
+        "Departure Time": "640A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "757A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "801",
+        "Origin Airport": "STL",
+        "Departure Time": "655A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "844A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AD",
+        "Flight": "1218",
+        "Origin Airport": "STL",
+        "Departure Time": "205P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "545P",
+        "Stops during flight": "3"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "460",
+        "Origin Airport": "STL",
+        "Departure Time": "720A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "948A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "356",
+        "Origin Airport": "STL",
+        "Departure Time": "345P",
+        "Destination Airport": "DTW",
+        "Arrival Time": "705P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "531",
+        "Origin Airport": "STL",
+        "Departure Time": "845A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1040A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "469",
+        "Origin Airport": "STL",
+        "Departure Time": "1115A",
+        "Destination Airport": "HOU",
+        "Arrival Time": "210P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "759",
+        "Origin Airport": "STL",
+        "Departure Time": "400P",
+        "Destination Airport": "HOU",
+        "Arrival Time": "545P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "663",
+        "Origin Airport": "STL",
+        "Departure Time": "920P",
+        "Destination Airport": "HOU",
+        "Arrival Time": "1115P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "700",
+        "Origin Airport": "STL",
+        "Departure Time": "125P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "617P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "60",
+        "Origin Airport": "STL",
+        "Departure Time": "146P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "520P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "443",
+        "Origin Airport": "STL",
+        "Departure Time": "902A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1109A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "223",
+        "Origin Airport": "STL",
+        "Departure Time": "907A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "130P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1363",
+        "Origin Airport": "STL",
+        "Departure Time": "710A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1248P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "204",
+        "Origin Airport": "STL",
+        "Departure Time": "449P",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1034P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "492",
+        "Origin Airport": "STL",
+        "Departure Time": "458P",
+        "Destination Airport": "MIA",
+        "Arrival Time": "838P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "707",
+        "Origin Airport": "STL",
+        "Departure Time": "700A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "830A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "598",
+        "Origin Airport": "STL",
+        "Departure Time": "520P",
+        "Destination Airport": "MSP",
+        "Arrival Time": "655P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "331",
+        "Origin Airport": "STL",
+        "Departure Time": "639P",
+        "Destination Airport": "MSP",
+        "Arrival Time": "815P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "539",
+        "Origin Airport": "STL",
+        "Departure Time": "817A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "1009A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "633",
+        "Origin Airport": "STL",
+        "Departure Time": "1157A",
+        "Destination Airport": "MSY",
+        "Arrival Time": "149P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "984",
+        "Origin Airport": "STL",
+        "Departure Time": "611A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "715A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "288",
+        "Origin Airport": "STL",
+        "Departure Time": "910A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "1024A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "574",
+        "Origin Airport": "STL",
+        "Departure Time": "509P",
+        "Destination Airport": "ORD",
+        "Arrival Time": "626P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "272",
+        "Origin Airport": "STL",
+        "Departure Time": "615A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "908A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "288",
+        "Origin Airport": "STL",
+        "Departure Time": "910A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "159P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "HP",
+        "Flight": "851",
+        "Origin Airport": "STL",
+        "Departure Time": "630A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "845A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "517",
+        "Origin Airport": "STL",
+        "Departure Time": "800A",
+        "Destination Airport": "PHX",
+        "Arrival Time": "1105A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "694",
+        "Origin Airport": "STL",
+        "Departure Time": "739A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "1029A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "29",
+        "Origin Airport": "STL",
+        "Departure Time": "917A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1200N",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "217",
+        "Origin Airport": "STL",
+        "Departure Time": "350P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "858P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "223",
+        "Origin Airport": "STL",
+        "Departure Time": "907A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1139A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "WN",
+        "Flight": "653",
+        "Origin Airport": "STL",
+        "Departure Time": "1015A",
+        "Destination Airport": "SFO",
+        "Arrival Time": "320P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "226",
+        "Origin Airport": "STL",
+        "Departure Time": "1100A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "221P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "880",
+        "Origin Airport": "STL",
+        "Departure Time": "1155A",
+        "Destination Airport": "TPA",
+        "Arrival Time": "425P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1111",
+        "Origin Airport": "TPA",
+        "Departure Time": "717P",
+        "Destination Airport": "ABQ",
+        "Arrival Time": "1043P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "422",
+        "Origin Airport": "TPA",
+        "Departure Time": "725A",
+        "Destination Airport": "ATL",
+        "Arrival Time": "856A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "582",
+        "Origin Airport": "TPA",
+        "Departure Time": "930P",
+        "Destination Airport": "ATL",
+        "Arrival Time": "1047P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1357",
+        "Origin Airport": "TPA",
+        "Departure Time": "815A",
+        "Destination Airport": "BNA",
+        "Arrival Time": "907A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "483",
+        "Origin Airport": "TPA",
+        "Departure Time": "520P",
+        "Destination Airport": "BNA",
+        "Arrival Time": "818P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1617",
+        "Origin Airport": "TPA",
+        "Departure Time": "1035A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "309P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "208",
+        "Origin Airport": "TPA",
+        "Departure Time": "1140A",
+        "Destination Airport": "BOS",
+        "Arrival Time": "224P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "728",
+        "Origin Airport": "TPA",
+        "Departure Time": "830A",
+        "Destination Airport": "DCA",
+        "Arrival Time": "1033A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "457",
+        "Origin Airport": "TPA",
+        "Departure Time": "700A",
+        "Destination Airport": "DEN",
+        "Arrival Time": "1050A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "581",
+        "Origin Airport": "TPA",
+        "Departure Time": "600A",
+        "Destination Airport": "DFW",
+        "Arrival Time": "733A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "719",
+        "Origin Airport": "TPA",
+        "Departure Time": "120P",
+        "Destination Airport": "DFW",
+        "Arrival Time": "256P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "868",
+        "Origin Airport": "TPA",
+        "Departure Time": "610A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "1010A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "479",
+        "Origin Airport": "TPA",
+        "Departure Time": "855A",
+        "Destination Airport": "DTW",
+        "Arrival Time": "1134A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "US",
+        "Flight": "1644",
+        "Origin Airport": "TPA",
+        "Departure Time": "110P",
+        "Destination Airport": "JFK",
+        "Arrival Time": "522P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "477",
+        "Origin Airport": "TPA",
+        "Departure Time": "745A",
+        "Destination Airport": "LAX",
+        "Arrival Time": "1059A",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "141",
+        "Origin Airport": "TPA",
+        "Departure Time": "555P",
+        "Destination Airport": "LAX",
+        "Arrival Time": "753P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "PA",
+        "Flight": "985",
+        "Origin Airport": "TPA",
+        "Departure Time": "915A",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1013A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "204",
+        "Origin Airport": "TPA",
+        "Departure Time": "845P",
+        "Destination Airport": "MIA",
+        "Arrival Time": "1034P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "447",
+        "Origin Airport": "TPA",
+        "Departure Time": "835A",
+        "Destination Airport": "MSP",
+        "Arrival Time": "1050A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "324",
+        "Origin Airport": "TPA",
+        "Departure Time": "545P",
+        "Destination Airport": "MSP",
+        "Arrival Time": "932P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "CO",
+        "Flight": "119",
+        "Origin Airport": "TPA",
+        "Departure Time": "220P",
+        "Destination Airport": "MSY",
+        "Arrival Time": "254P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "733",
+        "Origin Airport": "TPA",
+        "Departure Time": "710A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "855A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "NW",
+        "Flight": "479",
+        "Origin Airport": "TPA",
+        "Departure Time": "855A",
+        "Destination Airport": "ORD",
+        "Arrival Time": "1235P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "524",
+        "Origin Airport": "TPA",
+        "Departure Time": "645A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "859A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "276",
+        "Origin Airport": "TPA",
+        "Departure Time": "1000A",
+        "Destination Airport": "PHL",
+        "Arrival Time": "140P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "US",
+        "Flight": "854",
+        "Origin Airport": "TPA",
+        "Departure Time": "755P",
+        "Destination Airport": "PHL",
+        "Arrival Time": "1019P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "219",
+        "Origin Airport": "TPA",
+        "Departure Time": "415P",
+        "Destination Airport": "PHX",
+        "Arrival Time": "820P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "1630",
+        "Origin Airport": "TPA",
+        "Departure Time": "636A",
+        "Destination Airport": "RDU",
+        "Arrival Time": "816A",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "AA",
+        "Flight": "483",
+        "Origin Airport": "TPA",
+        "Departure Time": "520P",
+        "Destination Airport": "RDU",
+        "Arrival Time": "701P",
+        "Stops during flight": "0"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "1063",
+        "Origin Airport": "TPA",
+        "Departure Time": "635A",
+        "Destination Airport": "SEA",
+        "Arrival Time": "1235P",
+        "Stops during flight": "2"
+    },
+    {
+        "Airline": "UA",
+        "Flight": "177",
+        "Origin Airport": "TPA",
+        "Departure Time": "1255P",
+        "Destination Airport": "SEA",
+        "Arrival Time": "551P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "DL",
+        "Flight": "141",
+        "Origin Airport": "TPA",
+        "Departure Time": "555P",
+        "Destination Airport": "SFO",
+        "Arrival Time": "1017P",
+        "Stops during flight": "1"
+    },
+    {
+        "Airline": "TW",
+        "Flight": "377",
+        "Origin Airport": "TPA",
+        "Departure Time": "426P",
+        "Destination Airport": "STL",
+        "Arrival Time": "554P",
+        "Stops during flight": "0"
+    }
+]

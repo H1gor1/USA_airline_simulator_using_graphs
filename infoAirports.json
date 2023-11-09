@@ -1,0 +1,163 @@
+[
+    {
+      "abbreviation": "ABQ",
+      "time_zone_offset": "-0800",
+      "x_coordinate": "195",
+      "y_coordinate": "275",
+      "city_airport_name": "Albuquerque, New Mexico"
+    },
+    {
+      "abbreviation": "ATL",
+      "time_zone_offset": "-0600",
+      "x_coordinate": "470",
+      "y_coordinate": "280",
+      "city_airport_name": "Atlanta, Georgia"
+    },
+    {
+      "abbreviation": "BNA",
+      "time_zone_offset": "-0700",
+      "x_coordinate": "430",
+      "y_coordinate": "240",
+      "city_airport_name": "Nashville, Tennessee"
+    },
+    {
+      "abbreviation": "BOS",
+      "time_zone_offset": "-0600",
+      "x_coordinate": "590",
+      "y_coordinate": "100",
+      "city_airport_name": "Boston, Massachusetts"
+    },
+    {
+      "abbreviation": "DCA",
+      "time_zone_offset": "-0600",
+      "x_coordinate": "540",
+      "y_coordinate": "180",
+      "city_airport_name": "Washington D.C. (National)"
+    },
+    {
+      "abbreviation": "DEN",
+      "time_zone_offset": "-0800",
+      "x_coordinate": "215",
+      "y_coordinate": "205",
+      "city_airport_name": "Denver, Colorado"
+    },
+    {
+      "abbreviation": "DFW",
+      "time_zone_offset": "-0700",
+      "x_coordinate": "310",
+      "y_coordinate": "305",
+      "city_airport_name": "Dallas/Fort Worth, Texas"
+    },
+    {
+      "abbreviation": "DTW",
+      "time_zone_offset": "-0600",
+      "x_coordinate": "445",
+      "y_coordinate": "140",
+      "city_airport_name": "Detroit, Michigan"
+    },
+    {
+      "abbreviation": "HOU",
+      "time_zone_offset": "-0700",
+      "x_coordinate": "330",
+      "y_coordinate": "355",
+      "city_airport_name": "Houston, Texas (Hobby)"
+    },
+    {
+      "abbreviation": "JFK",
+      "time_zone_offset": "-0600",
+      "x_coordinate": "565",
+      "y_coordinate": "130",
+      "city_airport_name": "New York (Kennedy)"
+    },
+    {
+      "abbreviation": "LAX",
+      "time_zone_offset": "-0900",
+      "x_coordinate": "055",
+      "y_coordinate": "270",
+      "city_airport_name": "Los Angeles, California"
+    },
+    {
+      "abbreviation": "MIA",
+      "time_zone_offset": "-0600",
+      "x_coordinate": "535",
+      "y_coordinate": "390",
+      "city_airport_name": "Miami, Florida"
+    },
+    {
+      "abbreviation": "MSP",
+      "time_zone_offset": "-0700",
+      "x_coordinate": "340",
+      "y_coordinate": "115",
+      "city_airport_name": "Minneapolis/St Paul, Minnesota"
+    },
+    {
+      "abbreviation": "MSY",
+      "time_zone_offset": "-0700",
+      "x_coordinate": "405",
+      "y_coordinate": "345",
+      "city_airport_name": "New Orleans, Louisiana"
+    },
+    {
+      "abbreviation": "ORD",
+      "time_zone_offset": "-0700",
+      "x_coordinate": "410",
+      "y_coordinate": "155",
+      "city_airport_name": "Chicago, Illinois"
+    },
+    {
+      "abbreviation": "PHL",
+      "time_zone_offset": "-0600",
+      "x_coordinate": "550",
+      "y_coordinate": "155",
+      "city_airport_name": "Philadelphia, Pennsylvania/Wilmington, Delaware"
+    },
+    {
+      "abbreviation": "PHX",
+      "time_zone_offset": "-0800",
+      "x_coordinate": "120",
+      "y_coordinate": "290",
+      "city_airport_name": "Phoenix, Arizona"
+    },
+    {
+      "abbreviation": "PVD",
+      "time_zone_offset": "-0600",
+      "x_coordinate": "595",
+      "y_coordinate": "122",
+      "city_airport_name": "Providence/Newport, Rhode Island"
+    },
+    {
+      "abbreviation": "RDU",
+      "time_zone_offset": "-0600",
+      "x_coordinate": "530",
+      "y_coordinate": "230",
+      "city_airport_name": "Raleigh/Durham, North Carolina"
+    },
+    {
+      "abbreviation": "SEA",
+      "time_zone_offset": "-0900",
+      "x_coordinate": "055",
+      "y_coordinate": "045",
+      "city_airport_name": "Seattle/Tacoma, Washington"
+    },
+    {
+      "abbreviation": "SFO",
+      "time_zone_offset": "-0900",
+      "x_coordinate": "010",
+      "y_coordinate": "190",
+      "city_airport_name": "San Francisco, California"
+    },
+    {
+      "abbreviation": "STL",
+      "time_zone_offset": "-0700",
+      "x_coordinate": "380",
+      "y_coordinate": "210",
+      "city_airport_name": "St. Louis, Missouri"
+    },
+    {
+      "abbreviation": "TPA",
+      "time_zone_offset": "-0600",
+      "x_coordinate": "500",
+      "y_coordinate": "360",
+      "city_airport_name": "Tampa, Florida"
+    }
+]
