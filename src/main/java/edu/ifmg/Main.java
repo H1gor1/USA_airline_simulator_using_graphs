@@ -2,16 +2,23 @@ package edu.ifmg;
 import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         try {
             Lista<Airport> airports = Airport.fromJsonFile("infoAirports.json");
-            // Agora você tem uma lista de aeroportos e pode fazer o que quiser com ela
+
+            Routes routes = new Routes(airports.size());
             for (int i = 0; i < airports.size(); i++) {
-                Airport airport = airports.get(i);
-                System.out.println(airport.getAbbreviation());
+                routes.addAirport(airports.get(i));
             }
+
+            routes.addRoutesFromJsonFile("infoRoutes.json");
+
+            System.out.println(routes.getDistance(0, 5));
+
+            //routes.printAdjacencyMatrix();
         } catch (IOException e) {
-            System.out.println("Ocorreu um erro ao ler o arquivo JSON: " + e.getMessage());
+            e.printStackTrace();
         }
+
     }
 }

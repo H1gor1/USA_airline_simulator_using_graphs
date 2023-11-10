@@ -1,6 +1,7 @@
 package edu.ifmg;
 
 import com.google.gson.Gson;
+import com.google.gson.annotations.SerializedName;
 import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -8,17 +9,22 @@ import java.nio.file.Paths;
 import edu.ifmg.Lista;
 
 public class Airport {
+    @SerializedName("abbreviation")
     private String abbreviation;
+    @SerializedName("time_zone_offset")
     private String timeZone;
+    @SerializedName("x_coordinate")
     private int xCoordinate;
+    @SerializedName("y_coordinate")
     private int yCoordinate;
+    @SerializedName("city_airport_name")
     private String cityAirport;
 
-    public Airport(String abbreviation, String timeZone, String xCoordinate, String yCoordinate, String cityAirport) {
+    public Airport(String abbreviation, String timeZone, int xCoordinate, int yCoordinate, String cityAirport) {
         this.abbreviation = abbreviation;
         this.timeZone = timeZone;
-        this.xCoordinate = Integer.parseInt(xCoordinate.isEmpty() ? "0" : xCoordinate.trim());
-        this.yCoordinate = Integer.parseInt(yCoordinate.isEmpty() ? "0" : yCoordinate.trim());
+        this.xCoordinate = xCoordinate;
+        this.yCoordinate = yCoordinate;
         this.cityAirport = cityAirport;
     }
 

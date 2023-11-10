@@ -1,5 +1,4 @@
-{
-    "flights": [
+[
       {
         "source": "ABQ",
         "destination": "DEN"
@@ -136,5 +135,4 @@
         "source": "SEA",
         "destination": "SFO"
       }
-    ]
-}  
+]
