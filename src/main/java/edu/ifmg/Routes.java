@@ -36,7 +36,7 @@ public class Routes extends Graph {
         // Converter o JSON para uma lista de rotas
         Route[] routesArray = new Gson().fromJson(json, Route[].class);
 
-        // Converter o array para a sua classe Lista
+        // Converter o array
         Lista<Route> routes = new Lista<>();
         for (Route route : routesArray) {
             routes.add(route);
