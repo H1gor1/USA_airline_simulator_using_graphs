@@ -24,6 +24,7 @@ public class Schedule {
     private String Arrival_Time;
     private int Stops_during_flight;
     private int duration_Time;
+    private int distance;
 
     public Schedule(String airline, int flight, String origin_Airport, String departure_Time, String destination_Airport, String arrival_Time, int stops_during_flight) {
         Airline = airline;
@@ -34,6 +35,7 @@ public class Schedule {
         Arrival_Time = arrival_Time;
         Stops_during_flight = stops_during_flight;
         duration_Time = calculateFlightDuration(departure_Time, arrival_Time);
+        distance = Routes.calculateDistance(Routes.findAirportIndex(origin_Airport), Routes.findAirportIndex(destination_Airport));
     }
 
     public static Lista<Schedule> fromJsonFile(String filePath) throws IOException {
