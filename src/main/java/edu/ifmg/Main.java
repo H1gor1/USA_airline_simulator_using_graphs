@@ -16,13 +16,15 @@ public class Main {
             ScheduleGraph scheduleGraph = new ScheduleGraph(airports.size());
             for (int i = 0; i < schedulesList.size(); i++) {
                 Schedule schedule = schedulesList.get(i);
-                int sourceIndex = Routes.findAirportIndex(schedule.getOrigin_Airport());
-                int destinationIndex = Routes.findAirportIndex(schedule.getDestination_Airport());
+                int sourceIndex = routes.findAirportIndex(schedule.getOrigin_Airport());
+                int destinationIndex = routes.findAirportIndex(schedule.getDestination_Airport());
 
                 scheduleGraph.addEdge(sourceIndex, destinationIndex, schedule);
             }
 
+
             //System.out.println(routes.getDistance(0, 5));
+            scheduleGraph.printAdjacencyMatrix();
 
             //routes.printAdjacencyMatrix();
         } catch (IOException e) {

@@ -54,16 +54,16 @@ public class Routes extends Graph {
 
     }
 
-    public static int findAirportIndex(String abbreviation) {
-        for (int i = 0; i < airports.size(); i++) {
-            if (airports.get(i).getAbbreviation().equals(abbreviation)) {
+    public int findAirportIndex(String abbreviation) {
+        for (int i = 0; i < super.airports.size(); i++) {
+            if (abbreviation.equals(super.airports.get(i).getAbbreviation())){
                 return i;
             }
         }
         return -1;
     }
 
-    public static int calculateDistance(int source, int destination) {
+    public int calculateDistance(int source, int destination) {
         Airport sourceAirport = airports.get(source);
         Airport destinationAirport = airports.get(destination);
         int xDifference = sourceAirport.getxCoordinate() - destinationAirport.getxCoordinate();
@@ -81,4 +81,5 @@ public class Routes extends Graph {
     public boolean hasAirport(String abbreviation) {
         return findAirportIndex(abbreviation) != -1;
     }
+
 }

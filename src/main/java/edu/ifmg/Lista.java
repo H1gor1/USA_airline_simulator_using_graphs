@@ -45,4 +45,8 @@ public class Lista<T> {
         int newCapacity = elements.length * 2;
         elements = Arrays.copyOf(elements, newCapacity);
     }
+
+    public boolean isEmpty() {
+        return size() == 0;
+    }
 }

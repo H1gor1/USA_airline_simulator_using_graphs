@@ -1,7 +1,7 @@
 package edu.ifmg;
 
 public class Graph {
-    protected static Lista<Airport> airports;
+    protected Lista<Airport> airports;
 
     public Graph(int numberOfAirports) {
         this.airports = new Lista<>();
@@ -12,4 +12,5 @@ public class Graph {
     public Airport getAirport(int index) {
         return this.airports.get(index);
     }
+
 }

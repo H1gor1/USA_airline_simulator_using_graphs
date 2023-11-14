@@ -6,7 +6,8 @@
         "Departure_Time": "257P",
         "Destination_Airport": "ATL",
         "Arrival_Time": "1047P",
-        "Stops_during_flight": "1"
+        "Stops_during_flight": "1",
+        "distance": "50"
     },
     {
         "Airline": "TW",
@@ -1584,12 +1585,12 @@
         "Stops_during_flight": "1"
     },
     {
-        "Airline": "UA1483",
-        "Flight": "DFW",
-        "Origin_Airport": "700A",
-        "Departure_Time": "DEN",
-        "Destination_Airport": "802A",
-        "Arrival_Time": "B",
+        "Airline": "UA",
+        "Flight": "1483",
+        "Origin_Airport": "DFW",
+        "Departure_Time": "700A",
+        "Destination_Airport": "DEN",
+        "Arrival_Time": "802A",
         "Stops_during_flight": "0"
     },
     {

@@ -3,19 +3,15 @@ package edu.ifmg;
 import com.google.gson.Gson;
 import com.google.gson.annotations.SerializedName;
 import com.google.gson.reflect.TypeToken;
+
+import org.json.JSONArray;
+import org.json.JSONObject;
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class Schedule {
-    //        "Airline": "AA",
-    //        "Flight": "748",
-    //        "Origin_Airport": "ABQ",
-    //        "Departure_Time": "257P",
-    //        "Destination_Airport": "ATL",
-    //        "Arrival_Time": "1047P",
-    //        "Stops_during_flight": "1"
-
     private String Airline;
     private int Flight;
     private String Origin_Airport;
@@ -26,7 +22,7 @@ public class Schedule {
     private int duration_Time;
     private int distance;
 
-    public Schedule(String airline, int flight, String origin_Airport, String departure_Time, String destination_Airport, String arrival_Time, int stops_during_flight) {
+    public Schedule(String airline, int flight, String origin_Airport, String departure_Time, String destination_Airport, String arrival_Time, int stops_during_flight, Routes routes) {
         Airline = airline;
         Flight = flight;
         Origin_Airport = origin_Airport;
@@ -35,7 +31,7 @@ public class Schedule {
         Arrival_Time = arrival_Time;
         Stops_during_flight = stops_during_flight;
         duration_Time = calculateFlightDuration(departure_Time, arrival_Time);
-        distance = Routes.calculateDistance(Routes.findAirportIndex(origin_Airport), Routes.findAirportIndex(destination_Airport));
+        distance = routes.calculateDistance(routes.findAirportIndex(origin_Airport), routes.findAirportIndex(destination_Airport));
     }
 
     public static Lista<Schedule> fromJsonFile(String filePath) throws IOException {
@@ -110,4 +106,14 @@ public class Schedule {
     public int getStops_during_flight() {
         return Stops_during_flight;
     }
+
+    public int getDuration_Time() {
+        return duration_Time;
+    }
+
+    public int getDistance() {
+        return distance;
+    }
 }
+
+
