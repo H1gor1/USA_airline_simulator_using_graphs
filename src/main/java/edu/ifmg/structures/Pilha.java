@@ -1,4 +1,4 @@
-package edu.ifmg;
+package edu.ifmg.structures;
 
 public class Pilha {
     static final int MAX = 1000;

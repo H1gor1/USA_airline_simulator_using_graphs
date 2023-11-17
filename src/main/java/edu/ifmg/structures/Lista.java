@@ -1,4 +1,4 @@
-package edu.ifmg;
+package edu.ifmg.structures;
 import java.util.Arrays;
 public class Lista<T> {
     private static final int INITIAL_CAPACITY = 10;

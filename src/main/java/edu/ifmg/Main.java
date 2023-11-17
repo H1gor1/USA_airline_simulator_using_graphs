@@ -1,4 +1,6 @@
 package edu.ifmg;
+import edu.ifmg.structures.Lista;
+
 import java.io.IOException;
 
 public class Main {
@@ -12,19 +14,22 @@ public class Main {
             }
             routes.addRoutesFromJsonFile("infoRoutes.json");
 
-            Lista<Schedule> schedulesList = Schedule.fromJsonFile("infoSchedule.json");
+            Lista<Schedule> schedulesList = Schedule.fromJsonFile("infoSchedule.json", routes);
             ScheduleGraph scheduleGraph = new ScheduleGraph(airports.size());
             for (int i = 0; i < schedulesList.size(); i++) {
                 Schedule schedule = schedulesList.get(i);
                 int sourceIndex = routes.findAirportIndex(schedule.getOrigin_Airport());
                 int destinationIndex = routes.findAirportIndex(schedule.getDestination_Airport());
+                if(routes.adjacencyMatrix[sourceIndex][destinationIndex] > 0){
+                    scheduleGraph.addEdge(sourceIndex, destinationIndex, schedule);
+                }
 
-                scheduleGraph.addEdge(sourceIndex, destinationIndex, schedule);
             }
 
-
             //System.out.println(routes.getDistance(0, 5));
-            scheduleGraph.printAdjacencyMatrix();
+            //scheduleGraph.printAdjacencyMatrix();
+
+            routes.BFS(routes.findAirportIndex("ABQ"), routes.findAirportIndex("ATL"));
 
             //routes.printAdjacencyMatrix();
         } catch (IOException e) {

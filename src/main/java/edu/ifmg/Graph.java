@@ -1,5 +1,7 @@
 package edu.ifmg;
 
+import edu.ifmg.structures.Lista;
+
 public class Graph {
     protected Lista<Airport> airports;
 

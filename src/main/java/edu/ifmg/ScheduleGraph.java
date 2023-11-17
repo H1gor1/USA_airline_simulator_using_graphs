@@ -1,7 +1,9 @@
 package edu.ifmg;
 
+import edu.ifmg.structures.Lista;
+
 public class ScheduleGraph extends Graph {
-    private Lista<Schedule>[][] adjacencyMatrix;
+    public Lista<Schedule>[][] adjacencyMatrix;
 
     public ScheduleGraph(int numberOfAirports) {
         super(numberOfAirports);
@@ -24,16 +26,20 @@ public class ScheduleGraph extends Graph {
     }
 
     public void printAdjacencyMatrix() {
+        System.out.print("╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗\n");
         for (Lista<Schedule>[] matrix : adjacencyMatrix) {
+            System.out.print("║");
             for (Lista<Schedule> schedules : matrix) {
                 if (schedules.isEmpty()) {
-                    System.out.print("0 "); // Se não houver voos, imprime 0 para indicar ausência de conexão
+                    // Se não houver voos, imprime 0 para indicar ausência de conexão
+                    System.out.print(String.format("%4s ║", "0"));
                 } else {
-                    // Se houver voos, imprime a distância do primeiro voo
-                    System.out.print(schedules.get(0).getDuration_Time() + " ");
+                    // Se houver voos, imprime a distância do primeiro voo formatada
+                    System.out.print(String.format("%4d ║", schedules.get(0).getDistance()));
                 }
             }
             System.out.println(); // Move para a próxima linha após imprimir as informações para este aeroporto
         }
+        System.out.print("╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝\n");
     }
 }

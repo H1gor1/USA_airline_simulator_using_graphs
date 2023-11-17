@@ -6,8 +6,7 @@
         "Departure_Time": "257P",
         "Destination_Airport": "ATL",
         "Arrival_Time": "1047P",
-        "Stops_during_flight": "1",
-        "distance": "50"
+        "Stops_during_flight": "1"
     },
     {
         "Airline": "TW",

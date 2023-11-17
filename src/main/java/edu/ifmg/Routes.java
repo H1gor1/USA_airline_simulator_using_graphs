@@ -1,18 +1,20 @@
 package edu.ifmg;
 import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
 
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-import edu.ifmg.Airport;
-import edu.ifmg.Lista;
+import edu.ifmg.structures.Lista;
+import edu.ifmg.structures.ListaEncadeada;
+
 public class Routes extends Graph {
-    private int[][] adjacencyMatrix;
+    public int[][] adjacencyMatrix;
+    public int numberOfAirports;
 
     public Routes(int numberOfAirports) {
         super(numberOfAirports);
+        this.numberOfAirports = numberOfAirports;
         this.adjacencyMatrix = new int[numberOfAirports][numberOfAirports];
     }
 
@@ -71,15 +73,67 @@ public class Routes extends Graph {
         return (int) Math.sqrt((xDifference * xDifference) + (yDifference * yDifference));
     }
     public void printAdjacencyMatrix() {
-        for (int i = 0; i < adjacencyMatrix.length; i++) {
-            for (int j = 0; j < adjacencyMatrix[i].length; j++) {
-                System.out.print(adjacencyMatrix[i][j] + " ");
+        for (int[] matrix : adjacencyMatrix) {
+            for (int i : matrix) {
+                System.out.print(i + " ");
             }
             System.out.println();
         }
     }
     public boolean hasAirport(String abbreviation) {
         return findAirportIndex(abbreviation) != -1;
+    }
+
+
+    void BFS(int s, int d) {
+        if (s == d) {
+            System.out.println("O vértice de origem é igual ao vértice de destino.");
+            return;
+        }
+
+        // Marque todos os vértices como não visitados (por padrão, definido como falso)
+        boolean[] visited = new boolean[numberOfAirports];
+        int[] parent = new int[numberOfAirports];
+
+        // Crie uma fila para BFS
+        ListaEncadeada<Integer> queue = new ListaEncadeada<Integer>();
+
+        // Marque o nó atual como visitado e coloque-o na fila
+        visited[s] = true;
+        queue.add(s);
+        parent[s] = -1;  // O vértice de origem não tem pai
+
+        while (!queue.isEmpty()) {
+            // Desenfileire um vértice da fila
+            int currentVertex = queue.poll();
+
+            // Obtenha todos os vértices adjacentes ao vértice desenfileirado currentVertex.
+            // Se um adjacente não foi visitado, marque-o como visitado e enfileire-o
+            for (int n = 0; n < numberOfAirports; n++) {
+                if (adjacencyMatrix[currentVertex][n] != 0 && !visited[n]) {
+                    visited[n] = true;
+                    queue.add(n);
+                    parent[n] = currentVertex;
+
+                    // Se o destino for encontrado, pare a busca
+                    if (n == d) {
+                        printPath(parent, s, d);
+                        return;
+                    }
+                }
+            }
+        }
+
+        System.out.println("Não existe caminho do vértice " + s + " para o vértice " + d);
+    }
+
+    void printPath(int[] parent, int s, int d) {
+        if (s == d) {
+            System.out.print(airports.get(s).getAbbreviation());
+        } else {
+            printPath(parent, s, parent[d]);
+            System.out.print(" -> " + airports.get(d).getAbbreviation());
+        }
     }
 
 }

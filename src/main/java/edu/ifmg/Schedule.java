@@ -1,9 +1,6 @@
 package edu.ifmg;
 
-import com.google.gson.Gson;
-import com.google.gson.annotations.SerializedName;
-import com.google.gson.reflect.TypeToken;
-
+import edu.ifmg.structures.Lista;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -34,20 +31,32 @@ public class Schedule {
         distance = routes.calculateDistance(routes.findAirportIndex(origin_Airport), routes.findAirportIndex(destination_Airport));
     }
 
-    public static Lista<Schedule> fromJsonFile(String filePath) throws IOException {
-        // Ler o conteúdo do arquivo
+    public static Lista<Schedule> fromJsonFile(String filePath, Routes routes) throws IOException {
         String json = new String(Files.readAllBytes(Paths.get(filePath)));
 
-        // Converter o JSON para uma lista de aeroportos
-        Schedule[] schedules = new Gson().fromJson(json, Schedule[].class);
+        JSONArray jsonArray = new JSONArray(json);
 
-        // Adicionar os aeroportos à lista
-        Lista<Schedule> lista = new Lista<>();
-        for (Schedule schedule : schedules) {
-            lista.add(schedule);
+        Lista<Schedule> schedules = new Lista<>();
+
+        for (int i = 0; i < jsonArray.length(); i++) {
+            JSONObject jsonSchedule = jsonArray.getJSONObject(i);
+
+            Schedule schedule;
+            schedule = new Schedule(
+                    jsonSchedule.getString("Airline"),
+                    jsonSchedule.getInt("Flight"),
+                    jsonSchedule.getString("Origin_Airport"),
+                    jsonSchedule.getString("Departure_Time"),
+                    jsonSchedule.getString("Destination_Airport"),
+                    jsonSchedule.getString("Arrival_Time"),
+                    jsonSchedule.getInt("Stops_during_flight"),
+                    routes
+            );
+
+            schedules.add(schedule);
         }
 
-        return lista;
+        return schedules;
     }
 
     public static int calculateFlightDuration(String departureTime, String arrivalTime) {
@@ -63,16 +72,23 @@ public class Schedule {
     }
 
     public static int convertTimeToMinutes(String time) {
-        int hours = Integer.parseInt(time.substring(0, time.length() - 4));
-        int minutes = Integer.parseInt(time.substring(time.length() - 4, time.length() - 1));
+        // Obtém a letra (AM ou PM).
+        char amPm = time.charAt(time.length() - 1);
 
-        // Se o tempo terminar com 'P', isso significa PM, então adicionamos 12 horas.
-        if (time.endsWith("P") && hours != 12) {
+        // Obtém o número removendo a letra da string.
+        int numericValue = Integer.parseInt(time.substring(0, time.length() - 1));
+
+        // Divide o número em horas e minutos.
+        int hours = numericValue / 100; // Obtém as centenas como horas.
+        int minutes = numericValue % 100; // Obtém os dois últimos dígitos como minutos.
+
+        // Se o tempo terminar com 'P' e não for 12 PM, adicionamos 12 horas.
+        if (amPm == 'P' && hours != 12) {
             hours += 12;
         }
 
-        // Se o tempo terminar com 'A' e as horas forem 12, isso significa meia-noite, então definimos as horas como 0.
-        if (time.endsWith("A") && hours == 12) {
+        // Se o tempo terminar com 'A' e for 12 AM, definimos as horas como 0.
+        if (amPm == 'A' && hours == 12) {
             hours = 0;
         }
 
