@@ -3,7 +3,7 @@ package edu.ifmg;
 import edu.ifmg.structures.Lista;
 
 public class Graph {
-    protected Lista<Airport> airports;
+    public Lista<Airport> airports;
 
     public Graph(int numberOfAirports) {
         this.airports = new Lista<>();

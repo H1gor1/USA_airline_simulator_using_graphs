@@ -15,21 +15,24 @@ public class Main {
             routes.addRoutesFromJsonFile("infoRoutes.json");
 
             Lista<Schedule> schedulesList = Schedule.fromJsonFile("infoSchedule.json", routes);
-            ScheduleGraph scheduleGraph = new ScheduleGraph(airports.size());
+            ScheduleGraph scheduleGraph = new ScheduleGraph(airports.size(), airports);
             for (int i = 0; i < schedulesList.size(); i++) {
                 Schedule schedule = schedulesList.get(i);
                 int sourceIndex = routes.findAirportIndex(schedule.getOrigin_Airport());
                 int destinationIndex = routes.findAirportIndex(schedule.getDestination_Airport());
-                if(routes.adjacencyMatrix[sourceIndex][destinationIndex] > 0){
+                //if(routes.adjacencyMatrix[sourceIndex][destinationIndex] > 0){
                     scheduleGraph.addEdge(sourceIndex, destinationIndex, schedule);
-                }
+                //}
 
             }
 
             //System.out.println(routes.getDistance(0, 5));
             //scheduleGraph.printAdjacencyMatrix();
 
-            routes.BFS(routes.findAirportIndex("ABQ"), routes.findAirportIndex("ATL"));
+            Relatorys.BFS(routes.findAirportIndex("ABQ"), routes.findAirportIndex("ATL"), routes);
+            System.out.println();
+            Relatorys.showDirectFlightsWithoutConnections(scheduleGraph, routes.findAirportIndex("ABQ"));
+            Relatorys.dijkstra(scheduleGraph, routes.findAirportIndex("ABQ"), routes.findAirportIndex("ATL"));
 
             //routes.printAdjacencyMatrix();
         } catch (IOException e) {

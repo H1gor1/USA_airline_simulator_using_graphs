@@ -5,9 +5,10 @@ import edu.ifmg.structures.Lista;
 public class ScheduleGraph extends Graph {
     public Lista<Schedule>[][] adjacencyMatrix;
 
-    public ScheduleGraph(int numberOfAirports) {
+    public ScheduleGraph(int numberOfAirports, Lista<Airport> airports) {
         super(numberOfAirports);
         this.adjacencyMatrix = new Lista[numberOfAirports][numberOfAirports];
+        this.airports = airports;
 
         for (int i = 0; i < numberOfAirports; i++) {
             for (int j = 0; j < numberOfAirports; j++) {
@@ -42,4 +43,5 @@ public class ScheduleGraph extends Graph {
         }
         System.out.print("╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝\n");
     }
+
 }
