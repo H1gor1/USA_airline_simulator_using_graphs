@@ -73,12 +73,15 @@ public class Routes extends Graph {
         return (int) Math.sqrt((xDifference * xDifference) + (yDifference * yDifference));
     }
     public void printAdjacencyMatrix() {
+        System.out.print("╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗\n");
         for (int[] matrix : adjacencyMatrix) {
+            System.out.print("║");
             for (int i : matrix) {
-                System.out.print(i + " ");
+                System.out.print(String.format("%4d ║", i));
             }
             System.out.println();
         }
+        System.out.print("╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝\n");
     }
     public boolean hasAirport(String abbreviation) {
         return findAirportIndex(abbreviation) != -1;

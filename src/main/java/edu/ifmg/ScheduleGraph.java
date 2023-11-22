@@ -36,7 +36,7 @@ public class ScheduleGraph extends Graph {
                     System.out.print(String.format("%4s ║", "0"));
                 } else {
                     // Se houver voos, imprime a distância do primeiro voo formatada
-                    System.out.print(String.format("%4d ║", schedules.get(0).getDistance()));
+                    System.out.print(String.format("%4d ║", schedules.get(0).getDuration_Time()));
                 }
             }
             System.out.println(); // Move para a próxima linha após imprimir as informações para este aeroporto

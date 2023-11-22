@@ -1,12 +1,14 @@
 package edu.ifmg;
 
 import edu.ifmg.structures.Lista;
+import edu.ifmg.structures.ListaEncadeada;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.concurrent.LinkedBlockingQueue;
 
 public class Schedule {
     private String Airline;
@@ -28,7 +30,7 @@ public class Schedule {
         Arrival_Time = arrival_Time;
         Stops_during_flight = stops_during_flight;
         duration_Time = calculateFlightDuration(departure_Time, arrival_Time);
-        distance = routes.calculateDistance(routes.findAirportIndex(origin_Airport), routes.findAirportIndex(destination_Airport));
+        distance = calculateDistances(routes.findAirportIndex(origin_Airport), routes.findAirportIndex(destination_Airport), routes);
     }
 
     public static Lista<Schedule> fromJsonFile(String filePath, Routes routes) throws IOException {
@@ -93,6 +95,41 @@ public class Schedule {
         }
 
         return hours * 60 + minutes;
+    }
+
+    public static int calculateDistances(int origin, int destination, Routes routes){
+        // Cria um array para armazenar as distâncias dos aeroportos até a origem
+        int[] distances = new int[routes.numberOfAirports];
+        // Inicializa todas as distâncias como infinito
+        for (int i = 0; i < routes.numberOfAirports; i++) {
+            distances[i] = Integer.MAX_VALUE;
+        }
+        // A distância do aeroporto de origem até ele mesmo é 0
+        distances[origin] = 0;
+
+        // Cria uma lista encadeada para o BFS
+        ListaEncadeada<Integer> lista = new ListaEncadeada<>();
+        lista.add(origin);
+
+        while (!lista.isEmpty()) {
+            int currentAirport = lista.poll();
+
+            // Para cada aeroporto conectado ao aeroporto atual
+            for (int i = 0; i < routes.numberOfAirports; i++) {
+                if (routes.adjacencyMatrix[currentAirport][i] != 0) {
+                    // Se a distância atual até o aeroporto i for maior que a distância até o aeroporto atual mais a distância do aeroporto atual até o aeroporto i
+                    if (distances[i] > distances[currentAirport] + routes.adjacencyMatrix[currentAirport][i]) {
+                        // Atualiza a distância do aeroporto i
+                        distances[i] = distances[currentAirport] + routes.adjacencyMatrix[currentAirport][i];
+                        // Adiciona o aeroporto i à lista
+                        lista.add(i);
+                    }
+                }
+            }
+        }
+
+        // Retorna a distância até o aeroporto de destino
+        return distances[destination];
     }
 
     public String getAirline() {
