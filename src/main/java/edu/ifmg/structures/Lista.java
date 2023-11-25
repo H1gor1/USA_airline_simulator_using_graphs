@@ -41,6 +41,15 @@ public class Lista<T> {
         return size;
     }
 
+    public boolean contains(T element) {
+        for (int i = 0; i < size; i++) {
+            if (elements[i].equals(element)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
     private void increaseCapacity() {
         int newCapacity = elements.length * 2;
         elements = Arrays.copyOf(elements, newCapacity);

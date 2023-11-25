@@ -48,19 +48,11 @@ public class Airport {
         return abbreviation;
     }
 
-    public String getTimeZone() {
-        return timeZone;
-    }
-
     public int getxCoordinate() {
         return xCoordinate;
     }
 
     public int getyCoordinate() {
         return yCoordinate;
-    }
-
-    public String getCityAirport() {
-        return cityAirport;
     }
 }

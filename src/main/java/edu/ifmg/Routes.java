@@ -6,7 +6,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 import edu.ifmg.structures.Lista;
-import edu.ifmg.structures.ListaEncadeada;
 
 public class Routes extends Graph {
     public int[][] adjacencyMatrix;
@@ -77,11 +76,25 @@ public class Routes extends Graph {
         for (int[] matrix : adjacencyMatrix) {
             System.out.print("║");
             for (int i : matrix) {
-                System.out.print(String.format("%4d ║", i));
+                System.out.printf("%4d ║", i);
             }
             System.out.println();
         }
         System.out.print("╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝\n");
+    }
+
+    public void dfs(int airportIndex, boolean[] visited, Lista<Integer> path) {
+        // Marcar o aeroporto como visitado
+        visited[airportIndex] = true;
+        path.add(airportIndex);
+
+        // Visitar todos os aeroportos conectados a este aeroporto
+        for (int i = 0; i < numberOfAirports; i++) {
+            if (adjacencyMatrix[airportIndex][i] != 0 && !visited[i]) {
+                dfs(i, visited, path);
+                path.add(airportIndex);
+            }
+        }
     }
     public boolean hasAirport(String abbreviation) {
         return findAirportIndex(abbreviation) != -1;

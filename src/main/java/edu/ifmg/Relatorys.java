@@ -16,7 +16,7 @@ public class Relatorys {
         int[] parent = new int[routes.numberOfAirports];
 
         // Crie uma fila para BFS
-        ListaEncadeada<Integer> queue = new ListaEncadeada<Integer>();
+        ListaEncadeada<Integer> queue = new ListaEncadeada<>();
 
         // Marque o nó atual como visitado e coloque-o na fila
         visited[s] = true;
@@ -321,5 +321,49 @@ public class Relatorys {
         }
     }
 
+    //5.5
 
+    public static void findRoute(Routes routes, String startAirport) {
+        int startIndex = routes.findAirportIndex(startAirport);
+        if (startIndex == -1) {
+            System.out.println("Aeroporto não encontrado.");
+            return;
+        }
+
+        boolean[] visited = new boolean[routes.numberOfAirports];
+        Lista<Integer> path = new Lista<>();
+
+        routes.dfs(startIndex, visited, path);
+
+        for (int i = 0; i < routes.numberOfAirports; i++) {
+            if (!visited[i]) {
+                System.out.println("Não foi possível visitar todos os aeroportos a partir do aeroporto selecionado.");
+                return;
+            }
+        }
+
+        System.out.println("O caminho encontrado pelo DFS é:");
+        for (int i = 0; i < path.size() - 1; i++) {
+            if(i % 10 == 0){
+                System.out.println();
+            }
+            System.out.print(routes.airports.get(path.get(i)).getAbbreviation() + " -> ");
+        }
+        System.out.print(routes.airports.get(path.get(path.size() - 1)).getAbbreviation());
+
+
+        //Verificação se a rota é hamiltoniana
+        int[] arrayHamiltoniano = new int[routes.numberOfAirports];
+        for (int i = 0; i < path.size(); i++) {
+            arrayHamiltoniano[path.get(i)]++;
+        }
+
+        for (int j : arrayHamiltoniano) {
+            if (j > 1) {
+                System.out.println("\nA rota não é hamiltoniana!");
+                break;
+            }
+            System.out.println("\nA rota é hamiltoniana!");
+        }
+    }
 }

@@ -33,10 +33,10 @@ public class ScheduleGraph extends Graph {
             for (Lista<Schedule> schedules : matrix) {
                 if (schedules.isEmpty()) {
                     // Se não houver voos, imprime 0 para indicar ausência de conexão
-                    System.out.print(String.format("%4s ║", "0"));
+                    System.out.printf("%4s ║", "0");
                 } else {
                     // Se houver voos, imprime a distância do primeiro voo formatada
-                    System.out.print(String.format("%4d ║", schedules.get(0).getDuration_Time()));
+                    System.out.printf("%4d ║", schedules.get(0).getDuration_Time());
                 }
             }
             System.out.println(); // Move para a próxima linha após imprimir as informações para este aeroporto
