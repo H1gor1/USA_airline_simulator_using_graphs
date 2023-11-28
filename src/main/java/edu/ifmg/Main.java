@@ -45,8 +45,6 @@ public class Main {
                 int destinationIndex = routes.findAirportIndex(schedule.getDestination_Airport());
                     scheduleGraph.addEdge(sourceIndex, destinationIndex, schedule);
             }
-            routes.printAdjacencyMatrix();
-            //scheduleGraph.printAdjacencyMatrix();
 
             do {
                 System.out.println("\n-------------------- MENU --------------------\n");
@@ -57,7 +55,9 @@ public class Main {
                         3- Verificar menor viagem entre aeroportos
                         4- Verificar grafo conexo e aeroportos críticos
                         5- Verificar rota que passa por todos os aeroportos
-                        6- Sair""");
+                        6- Imprimir matriz grafo rotas
+                        7- Imprimir matriz grafo de voos
+                        8- Sair""");
                 System.out.print("----------------------------------------------\n");
                 escolha = scan.nextInt();
 
@@ -119,8 +119,14 @@ public class Main {
                         aeroporto = capturaAeroporto(routes);
                         Relatorys.findRoute(routes, aeroporto);
                         break;
+                    case 6:
+                        routes.printAdjacencyMatrix();
+                        break;
+                    case 7:
+                        scheduleGraph.printAdjacencyMatrix();
+                        break;
                 }
-            } while (escolha != 6);
+            } while (escolha != 8);
         } catch (IOException e) {
             e.printStackTrace();
         }
