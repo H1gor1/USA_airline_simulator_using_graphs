@@ -33,15 +33,21 @@ public class Schedule {
     }
 
     public static Lista<Schedule> fromJsonFile(String filePath, Routes routes) throws IOException {
+        // Lê o conteúdo do arquivo JSON em uma string
         String json = new String(Files.readAllBytes(Paths.get(filePath)));
 
+        // Converte a string JSON em um JSONArray
         JSONArray jsonArray = new JSONArray(json);
 
+        // Cria uma lista de schedules
         Lista<Schedule> schedules = new Lista<>();
 
+        // Loop para percorrer todos os objetos no JSONArray
         for (int i = 0; i < jsonArray.length(); i++) {
+            // Obtém o objeto JSON atual
             JSONObject jsonSchedule = jsonArray.getJSONObject(i);
 
+            // Cria um novo objeto Schedule a partir do objeto JSON
             Schedule schedule;
             schedule = new Schedule(
                     jsonSchedule.getString("Airline"),
@@ -54,9 +60,11 @@ public class Schedule {
                     routes
             );
 
+            // Adiciona o objeto Schedule à lista
             schedules.add(schedule);
         }
 
+        // Retorna a lista
         return schedules;
     }
 

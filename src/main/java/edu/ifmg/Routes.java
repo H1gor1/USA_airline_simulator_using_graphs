@@ -1,5 +1,6 @@
 package edu.ifmg;
-import com.google.gson.Gson;
+import org.json.JSONArray;
+import org.json.JSONObject;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -35,11 +36,15 @@ public class Routes extends Graph {
         String json = new String(Files.readAllBytes(Paths.get(filePath)));
 
         // Converter o JSON para uma lista de rotas
-        Route[] routesArray = new Gson().fromJson(json, Route[].class);
+        JSONArray routesArray = new JSONArray(json);
 
         // Converter o array
         Lista<Route> routes = new Lista<>();
-        for (Route route : routesArray) {
+        for (int i = 0; i < routesArray.length(); i++) {
+            JSONObject routeObject = routesArray.getJSONObject(i);
+            Route route = new Route();
+            route.source = routeObject.getString("source");
+            route.destination = routeObject.getString("destination");
             routes.add(route);
         }
 
@@ -52,7 +57,6 @@ public class Routes extends Graph {
                 addRoute(sourceIndex, destinationIndex, calculateDistance(sourceIndex, destinationIndex));
             }
         }
-
     }
 
     public int findAirportIndex(String abbreviation) {
@@ -84,14 +88,18 @@ public class Routes extends Graph {
     }
 
     public void dfs(int airportIndex, boolean[] visited, Lista<Integer> path) {
-        // Marcar o aeroporto como visitado
+        // Marca o aeroporto atual como visitado
         visited[airportIndex] = true;
+        // Adiciona o aeroporto atual ao caminho
         path.add(airportIndex);
 
-        // Visitar todos os aeroportos conectados a este aeroporto
+        // Loop para visitar todos os aeroportos conectados ao aeroporto atual
         for (int i = 0; i < numberOfAirports; i++) {
+            // Se existe uma conexão do aeroporto atual para o aeroporto 'i' e o aeroporto 'i' ainda não foi visitado
             if (adjacencyMatrix[airportIndex][i] != 0 && !visited[i]) {
+                // Realiza uma busca em profundidade a partir do aeroporto 'i'
                 dfs(i, visited, path);
+                // Adiciona o aeroporto atual ao caminho novamente para indicar o retorno ao aeroporto atual após visitar o aeroporto 'i'
                 path.add(airportIndex);
             }
         }

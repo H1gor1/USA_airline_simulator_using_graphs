@@ -61,11 +61,16 @@ public class Relatorys {
     static void showDirectFlightsWithoutConnections(ScheduleGraph scheduleGraph, int s) {
         System.out.println("Voos diretos a partir deste aeroporto:");
 
+        // Loop para percorrer todos os aeroportos
         for (int i = 0; i < scheduleGraph.airports.size(); i++) {
+            // Loop para percorrer todos os voos do aeroporto de origem 's' para o aeroporto 'i'
             for (int j = 0; j < scheduleGraph.adjacencyMatrix[s][i].size(); j++) {
+                // Obtém o voo atual
                 Schedule currentSchedule = scheduleGraph.adjacencyMatrix[s][i].get(j);
 
+                // Se a duração do voo é diferente de zero e não há paradas durante o voo
                 if (currentSchedule.getDuration_Time() != 0 && currentSchedule.getStops_during_flight() == 0) {
+                    // Imprime o aeroporto de destino e a duração do voo
                     System.out.println(currentSchedule.getDestination_Airport() + " " + " Duração:" + currentSchedule.getDuration_Time());
                 }
             }
@@ -73,39 +78,47 @@ public class Relatorys {
         System.out.println();
     }
 
-
+    //5.3
     public static void dijkstra(ScheduleGraph graph, int source, int destination) {
         int numberOfAirports = graph.airports.size();
 
-        int[] duration = new int[numberOfAirports];
-        int[] KMDistances = new int[numberOfAirports];
-        boolean[] visited = new boolean[numberOfAirports];
-        int[] previousAirport = new int[numberOfAirports];
-        Schedule[] previousFlight = new Schedule[numberOfAirports];
+        // Inicializa as variáveis que serão usadas para armazenar informações sobre o grafo
+        int[] duration = new int[numberOfAirports];  // Armazena a duração do voo de cada aeroporto
+        int[] KMDistances = new int[numberOfAirports];  // Armazena a distância em KM de cada aeroporto
+        boolean[] visited = new boolean[numberOfAirports];  // Armazena se um aeroporto já foi visitado
+        int[] previousAirport = new int[numberOfAirports];  // Armazena o aeroporto anterior no caminho mais curto
+        Schedule[] previousFlight = new Schedule[numberOfAirports];  // Armazena o voo anterior no caminho mais curto
 
         // Inicialização das distâncias, vértices não visitados e vértices anteriores
         for (int i = 0; i < numberOfAirports; i++) {
-            duration[i] = Integer.MAX_VALUE;
-            KMDistances[i] = Integer.MAX_VALUE;
-            visited[i] = false;
-            previousAirport[i] = -1; // Inicializa com -1 para indicar que ainda não foi visitado
+            duration[i] = Integer.MAX_VALUE;  // Inicializa a duração com um valor muito alto
+            KMDistances[i] = Integer.MAX_VALUE;  // Inicializa a distância em KM com um valor muito alto
+            visited[i] = false;  // Marca todos os aeroportos como não visitados
+            previousAirport[i] = -1;  // Inicializa com -1 para indicar que ainda não foi visitado
         }
 
+        // A duração e a distância do aeroporto de origem para ele mesmo são 0
         duration[source] = 0;
         KMDistances[source] = 0;
 
+        // Loop para visitar todos os aeroportos
         for (int i = 0; i < numberOfAirports - 1; i++) {
+            // Seleciona o aeroporto com a menor distância, dentre os não visitados
             int currentAirport = minDistance(duration, visited);
 
+            // Marca o aeroporto selecionado como visitado
             visited[currentAirport] = true;
 
+            // Atualiza a distância e a duração dos aeroportos vizinhos do aeroporto selecionado
             for (int neighborAirport = 0; neighborAirport < numberOfAirports; neighborAirport++) {
                 for (int j = 0; j < graph.adjacencyMatrix[currentAirport][neighborAirport].size(); j++) {
                     Schedule schedule = graph.adjacencyMatrix[currentAirport][neighborAirport].get(j);
 
+                    // Calcula a nova distância e duração considerando o voo atual
                     int newDistance = duration[currentAirport] + schedule.getDuration_Time();
                     int newKmDistance = KMDistances[currentAirport] + schedule.getDistance();
 
+                    // Se a nova distância for menor, atualiza a distância, a duração, o aeroporto anterior e o voo anterior
                     if (!visited[neighborAirport] && newDistance < duration[neighborAirport]) {
                         duration[neighborAirport] = newDistance;
                         KMDistances[neighborAirport] = newKmDistance;
@@ -162,12 +175,11 @@ public class Relatorys {
         int[] previousAirport = new int[numberOfAirports];
         Schedule[] previousFlight = new Schedule[numberOfAirports];
 
-        // Inicialização das distâncias, vértices não visitados e vértices anteriores
         for (int i = 0; i < numberOfAirports; i++) {
             duration[i] = Integer.MAX_VALUE;
             KMDistances[i] = Integer.MAX_VALUE;
             visited[i] = false;
-            previousAirport[i] = -1; // Inicializa com -1 para indicar que ainda não foi visitado
+            previousAirport[i] = -1;
         }
 
         duration[source] = 0;
@@ -195,16 +207,11 @@ public class Relatorys {
             }
         }
 
-        // A partir deste ponto, distances contém as menores distâncias da origem para todos os destinos
-        // E previousAirport contém os vértices anteriores no caminho mais curto
-
-        // Agora você pode usar as informações para determinar o caminho com menor custo em termos de tempo de voo
         int shortestDistance = KMDistances[destination];
         int totalDuration = duration[destination];
         System.out.println("Menor distancia de voo de " + graph.getAirport(source).getAbbreviation() +
                 " para " + graph.getAirport(destination).getAbbreviation() + ": " + shortestDistance + " KM | Duração: " + totalDuration + " minutos");
 
-        // Construir o caminho percorrendo os vértices anteriores
         Lista<Integer> path = new Lista<>();
         int currentAirport = destination;
         while (currentAirport != -1) {
@@ -215,38 +222,41 @@ public class Relatorys {
             currentAirport = previousAirport[currentAirport];
         }
 
-        // Inverter a lista para imprimir na ordem correta
         Lista<Integer> reversedPath = new Lista<>();
         for (int i = path.size() - 1; i >= 0; i--) {
             reversedPath.add(path.get(i));
         }
 
-        // Imprimir o caminho
         System.out.println("Caminho:");
         for (int i = 0; i < reversedPath.size(); i++) {
             int airportIndex = reversedPath.get(i);
             System.out.println(" - Aeroporto: " + graph.getAirport(airportIndex).getAbbreviation());
-            if (i < reversedPath.size() - 1) {  // Não imprima o voo para o último aeroporto
+            if (i < reversedPath.size() - 1) {
                 System.out.println(" - Voo: " + previousFlight[reversedPath.get(i+1)].getFlight());
             }
         }
     }
 
     private static int minDistance(int[] distances, boolean[] visited) {
+        // Inicializa o valor mínimo com um valor muito alto e o índice mínimo com -1
         int min = Integer.MAX_VALUE;
         int minIndex = -1;
 
+        // Loop para percorrer todos os vértices
         for (int i = 0; i < distances.length; i++) {
+            // Se o vértice não foi visitado e a distância é menor ou igual ao valor mínimo atual
             if (!visited[i] && distances[i] <= min) {
+                // Atualiza o valor mínimo e o índice mínimo
                 min = distances[i];
                 minIndex = i;
             }
         }
 
+        // Retorna o índice do vértice com a menor distância
         return minIndex;
     }
-
-    // Método para verificar se todos os aeroportos estão conectados
+    
+    // 5.4 Método para verificar se todos os aeroportos estão conectados
     public static boolean isConnected(Routes routes, int startAirportIndex) {
         // Cria um array para armazenar quais aeroportos foram visitados
         boolean[] visited = new boolean[routes.airports.size()];
@@ -324,17 +334,22 @@ public class Relatorys {
     //5.5
 
     public static void findRoute(Routes routes, String startAirport) {
+        // Encontra o índice do aeroporto de partida
         int startIndex = routes.findAirportIndex(startAirport);
+        // Se o aeroporto de partida não for encontrado, imprime uma mensagem e retorna
         if (startIndex == -1) {
             System.out.println("Aeroporto não encontrado.");
             return;
         }
 
+        // Inicializa o array de visitados e o caminho
         boolean[] visited = new boolean[routes.numberOfAirports];
         Lista<Integer> path = new Lista<>();
 
+        // Realiza a busca em profundidade a partir do aeroporto de partida
         routes.dfs(startIndex, visited, path);
 
+        // Verifica se todos os aeroportos foram visitados
         for (int i = 0; i < routes.numberOfAirports; i++) {
             if (!visited[i]) {
                 System.out.println("Não foi possível visitar todos os aeroportos a partir do aeroporto selecionado.");
@@ -342,6 +357,7 @@ public class Relatorys {
             }
         }
 
+        // Imprime o caminho encontrado pela busca em profundidade
         System.out.println("O caminho encontrado pelo DFS é:");
         for (int i = 0; i < path.size() - 1; i++) {
             if(i % 10 == 0){
@@ -351,19 +367,22 @@ public class Relatorys {
         }
         System.out.print(routes.airports.get(path.get(path.size() - 1)).getAbbreviation());
 
-
-        //Verificação se a rota é hamiltoniana
+        // Verifica se a rota é hamiltoniana
         int[] arrayHamiltoniano = new int[routes.numberOfAirports];
+        boolean isHamiltonian = true;
+
         for (int i = 0; i < path.size(); i++) {
             arrayHamiltoniano[path.get(i)]++;
-        }
-
-        for (int j : arrayHamiltoniano) {
-            if (j > 1) {
-                System.out.println("\nA rota não é hamiltoniana!");
+            if (arrayHamiltoniano[path.get(i)] > 1) {
+                isHamiltonian = false;
                 break;
             }
+        }
+
+        if (isHamiltonian) {
             System.out.println("\nA rota é hamiltoniana!");
+        } else {
+            System.out.println("\nA rota não é hamiltoniana!");
         }
     }
 }

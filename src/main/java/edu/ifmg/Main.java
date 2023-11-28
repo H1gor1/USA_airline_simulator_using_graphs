@@ -11,6 +11,9 @@ public class Main {
         do {
             System.out.println("Digite o aeroporto que deseja: ");
             abreviattion = scan.next();
+            if(!routes.hasAirport(abreviattion)){
+                System.out.println("Aeroproto incorreto, tente novamente!");
+            }
         } while (!routes.hasAirport(abreviattion));
         return abreviattion;
     }
@@ -19,24 +22,30 @@ public class Main {
             int escolha;
             String abreviattion;
             Scanner scan = new Scanner(System.in);
+
+            //Pega os aeroportos do arquivo de aeroportos e adiciona em uma Lista
             Lista<Airport> airports = Airport.fromJsonFile("infoAirports.json");
 
-
+            //Adiciona os aeroportos como vértices
             Routes routes = new Routes(airports.size());
             for (int i = 0; i < airports.size(); i++) {
                 routes.addAirport(airports.get(i));
             }
+            //Chama a função que adiciona as arestas no grafo a partir do arquivo de rotas diretas
             routes.addRoutesFromJsonFile("infoRoutes.json");
 
+            //Cria uma lista de objetos Schedule onde tem todos os dados dos voos
             Lista<Schedule> schedulesList = Schedule.fromJsonFile("infoSchedule.json", routes);
+            //Cria um grafo para os voos
             ScheduleGraph scheduleGraph = new ScheduleGraph(airports.size(), airports);
+            //Adiciona as arestas no grafo de voos, cada aresta recebe objetos schedule.
             for (int i = 0; i < schedulesList.size(); i++) {
                 Schedule schedule = schedulesList.get(i);
                 int sourceIndex = routes.findAirportIndex(schedule.getOrigin_Airport());
                 int destinationIndex = routes.findAirportIndex(schedule.getDestination_Airport());
                     scheduleGraph.addEdge(sourceIndex, destinationIndex, schedule);
             }
-            //routes.printAdjacencyMatrix();
+            routes.printAdjacencyMatrix();
             //scheduleGraph.printAdjacencyMatrix();
 
             do {

@@ -1,7 +1,7 @@
 package edu.ifmg;
 
-import com.google.gson.Gson;
-import com.google.gson.annotations.SerializedName;
+import org.json.JSONArray;
+import org.json.JSONObject;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -9,15 +9,10 @@ import java.nio.file.Paths;
 import edu.ifmg.structures.Lista;
 
 public class Airport {
-    @SerializedName("abbreviation")
     private String abbreviation;
-    @SerializedName("time_zone_offset")
     private String timeZone;
-    @SerializedName("x_coordinate")
     private int xCoordinate;
-    @SerializedName("y_coordinate")
     private int yCoordinate;
-    @SerializedName("city_airport_name")
     private String cityAirport;
 
     public Airport(String abbreviation, String timeZone, int xCoordinate, int yCoordinate, String cityAirport) {
@@ -33,11 +28,19 @@ public class Airport {
         String json = new String(Files.readAllBytes(Paths.get(filePath)));
 
         // Converter o JSON para uma lista de aeroportos
-        Airport[] airports = new Gson().fromJson(json, Airport[].class);
+        JSONArray airportsArray = new JSONArray(json);
 
         // Adicionar os aeroportos à lista
         Lista<Airport> lista = new Lista<>();
-        for (Airport airport : airports) {
+        for (int i = 0; i < airportsArray.length(); i++) {
+            JSONObject airportObject = airportsArray.getJSONObject(i);
+            Airport airport = new Airport(
+                    airportObject.getString("abbreviation"),
+                    airportObject.getString("time_zone_offset"),
+                    airportObject.getInt("x_coordinate"),
+                    airportObject.getInt("y_coordinate"),
+                    airportObject.getString("city_airport_name")
+            );
             lista.add(airport);
         }
 
