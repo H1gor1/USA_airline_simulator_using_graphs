@@ -1,6 +1,6 @@
 # Controle de Voos e Rotas Aéreas
 
-Este repositório contém o projeto desenvolvido pelo aluno Higor Gabriel Lino Silva do curso de Ciência da Computação do Instituto Federal de Minas Gerais - Campus Formiga, como parte da disciplina de Estrutura de Dados II. O trabalho aborda o tema de Controle de Voos e Rotas Aéreas, utilizando grafos para modelar as relações entre aeroportos, rotas e voos.
+Este repositório contém o projeto desenvolvido pelo aluno [Higor Gabriel Lino Silva](https://github.com/H1gor1) do curso de Ciência da Computação do Instituto Federal de Minas Gerais - Campus Formiga, como parte da disciplina de Estrutura de Dados II. O trabalho aborda o tema de Controle de Voos e Rotas Aéreas, utilizando grafos para modelar as relações entre aeroportos, rotas e voos.
 
 ## Descrição do Projeto
 
